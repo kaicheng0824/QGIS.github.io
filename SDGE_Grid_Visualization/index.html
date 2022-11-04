@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="css/leaflet.css">
+        <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <style>
+        html, body, #map {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map">
+        </div>
+        <script src="js/qgis2web_expressions.js"></script>
+        <script src="js/leaflet.js"></script>
+        <script src="js/leaflet.rotatedMarker.js"></script>
+        <script src="js/leaflet.pattern.js"></script>
+        <script src="js/leaflet-hash.js"></script>
+        <script src="js/Autolinker.min.js"></script>
+        <script src="js/rbush.min.js"></script>
+        <script src="js/labelgun.min.js"></script>
+        <script src="js/labels.js"></script>
+        <script src="data/SDGETransmission_1.js"></script>
+        <script src="data/SubstationsandTAPs_2.js"></script>
+        <script src="data/SDGE_Node_Info_3.js"></script>
+        <script>
+        var map = L.map('map', {
+            zoomControl:true, maxZoom:28, minZoom:1
+        }).fitBounds([[32.512421986417245,-117.72330022222881],[33.51254846698925,-116.04955914150683]]);
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
+        var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
+        var bounds_group = new L.featureGroup([]);
+        function setBounds() {
+        }
+        map.createPane('pane_OpenStreetMap_0');
+        map.getPane('pane_OpenStreetMap_0').style.zIndex = 400;
+        var layer_OpenStreetMap_0 = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            pane: 'pane_OpenStreetMap_0',
+            opacity: 1.0,
+            attribution: '',
+            minZoom: 1,
+            maxZoom: 28,
+            minNativeZoom: 0,
+            maxNativeZoom: 19
+        });
+        layer_OpenStreetMap_0;
+        map.addLayer(layer_OpenStreetMap_0);
+        function pop_SDGETransmission_1(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['OBJECTID'] !== null ? autolinker.link(feature.properties['OBJECTID'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['ID'] !== null ? autolinker.link(feature.properties['ID'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['TYPE'] !== null ? autolinker.link(feature.properties['TYPE'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['STATUS'] !== null ? autolinker.link(feature.properties['STATUS'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['NAICS_CODE'] !== null ? autolinker.link(feature.properties['NAICS_CODE'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['NAICS_DESC'] !== null ? autolinker.link(feature.properties['NAICS_DESC'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['SOURCE'] !== null ? autolinker.link(feature.properties['SOURCE'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['SOURCEDATE'] !== null ? autolinker.link(feature.properties['SOURCEDATE'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['VAL_METHOD'] !== null ? autolinker.link(feature.properties['VAL_METHOD'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['VAL_DATE'] !== null ? autolinker.link(feature.properties['VAL_DATE'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['OWNER'] !== null ? autolinker.link(feature.properties['OWNER'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2"><strong>VOLTAGE</strong><br />' + (feature.properties['VOLTAGE'] !== null ? autolinker.link(feature.properties['VOLTAGE'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">VOLT_CLASS</th>\
+                        <td>' + (feature.properties['VOLT_CLASS'] !== null ? autolinker.link(feature.properties['VOLT_CLASS'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['INFERRED'] !== null ? autolinker.link(feature.properties['INFERRED'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['SUB_1'] !== null ? autolinker.link(feature.properties['SUB_1'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['SUB_2'] !== null ? autolinker.link(feature.properties['SUB_2'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['SHAPE__Len'] !== null ? autolinker.link(feature.properties['SHAPE__Len'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_SDGETransmission_1_0() {
+            return {
+                pane: 'pane_SDGETransmission_1',
+                opacity: 1,
+                color: 'rgba(0,0,0,1.0)',
+                dashArray: '',
+                lineCap: 'square',
+                lineJoin: 'bevel',
+                weight: 2.0,
+                fillOpacity: 0,
+                interactive: true,
+            }
+        }
+        map.createPane('pane_SDGETransmission_1');
+        map.getPane('pane_SDGETransmission_1').style.zIndex = 401;
+        map.getPane('pane_SDGETransmission_1').style['mix-blend-mode'] = 'normal';
+        var layer_SDGETransmission_1 = new L.geoJson(json_SDGETransmission_1, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_SDGETransmission_1',
+            layerName: 'layer_SDGETransmission_1',
+            pane: 'pane_SDGETransmission_1',
+            onEachFeature: pop_SDGETransmission_1,
+            style: style_SDGETransmission_1_0,
+        });
+        bounds_group.addLayer(layer_SDGETransmission_1);
+        map.addLayer(layer_SDGETransmission_1);
+        function pop_SubstationsandTAPs_2(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['X'] !== null ? autolinker.link(feature.properties['X'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Y'] !== null ? autolinker.link(feature.properties['Y'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['OBJECTID'] !== null ? autolinker.link(feature.properties['OBJECTID'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2"><strong>Owner</strong><br />' + (feature.properties['Owner'] !== null ? autolinker.link(feature.properties['Owner'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Path'] !== null ? autolinker.link(feature.properties['Path'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Source'] !== null ? autolinker.link(feature.properties['Source'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Type'] !== null ? autolinker.link(feature.properties['Type'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['HIFLD_ID'] !== null ? autolinker.link(feature.properties['HIFLD_ID'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Name'] !== null ? autolinker.link(feature.properties['Name'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Max_Voltage</th>\
+                        <td>' + (feature.properties['Max_Voltage'] !== null ? autolinker.link(feature.properties['Max_Voltage'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['ZIP_CODE'] !== null ? autolinker.link(feature.properties['ZIP_CODE'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['STATE'] !== null ? autolinker.link(feature.properties['STATE'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['COUNTY'] !== null ? autolinker.link(feature.properties['COUNTY'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['CITY'] !== null ? autolinker.link(feature.properties['CITY'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Lon'] !== null ? autolinker.link(feature.properties['Lon'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Lat'] !== null ? autolinker.link(feature.properties['Lat'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_SubstationsandTAPs_2_0() {
+            return {
+                pane: 'pane_SubstationsandTAPs_2',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(190,178,151,1.0)',
+                interactive: true,
+            }
+        }
+        map.createPane('pane_SubstationsandTAPs_2');
+        map.getPane('pane_SubstationsandTAPs_2').style.zIndex = 402;
+        map.getPane('pane_SubstationsandTAPs_2').style['mix-blend-mode'] = 'normal';
+        var layer_SubstationsandTAPs_2 = new L.geoJson(json_SubstationsandTAPs_2, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_SubstationsandTAPs_2',
+            layerName: 'layer_SubstationsandTAPs_2',
+            pane: 'pane_SubstationsandTAPs_2',
+            onEachFeature: pop_SubstationsandTAPs_2,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_SubstationsandTAPs_2_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_SubstationsandTAPs_2);
+        map.addLayer(layer_SubstationsandTAPs_2);
+        function pop_SDGE_Node_Info_3(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2"><strong>PNODE_ID</strong><br />' + (feature.properties['PNODE_ID'] !== null ? autolinker.link(feature.properties['PNODE_ID'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['AS_ID'] !== null ? autolinker.link(feature.properties['AS_ID'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">RES_TYPE</th>\
+                        <td>' + (feature.properties['RES_TYPE'] !== null ? autolinker.link(feature.properties['RES_TYPE'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['RES_ID'] !== null ? autolinker.link(feature.properties['RES_ID'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['BUS_ID'] !== null ? autolinker.link(feature.properties['BUS_ID'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['FNMVERSION'] !== null ? autolinker.link(feature.properties['FNMVERSION'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['RELEASE_DATE'] !== null ? autolinker.link(feature.properties['RELEASE_DATE'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['GROUP'] !== null ? autolinker.link(feature.properties['GROUP'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Lat</th>\
+                        <td>' + (feature.properties['Lat'] !== null ? autolinker.link(feature.properties['Lat'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Long</th>\
+                        <td>' + (feature.properties['Long'] !== null ? autolinker.link(feature.properties['Long'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_SDGE_Node_Info_3_0() {
+            return {
+                pane: 'pane_SDGE_Node_Info_3',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(16,221,33,1.0)',
+                interactive: true,
+            }
+        }
+        map.createPane('pane_SDGE_Node_Info_3');
+        map.getPane('pane_SDGE_Node_Info_3').style.zIndex = 403;
+        map.getPane('pane_SDGE_Node_Info_3').style['mix-blend-mode'] = 'normal';
+        var layer_SDGE_Node_Info_3 = new L.geoJson(json_SDGE_Node_Info_3, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_SDGE_Node_Info_3',
+            layerName: 'layer_SDGE_Node_Info_3',
+            pane: 'pane_SDGE_Node_Info_3',
+            onEachFeature: pop_SDGE_Node_Info_3,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_SDGE_Node_Info_3_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_SDGE_Node_Info_3);
+        map.addLayer(layer_SDGE_Node_Info_3);
+        var baseMaps = {};
+        L.control.layers(baseMaps,{'<img src="legend/SDGE_Node_Info_3.png" /> SDGE_Node_Info': layer_SDGE_Node_Info_3,'<img src="legend/SubstationsandTAPs_2.png" /> Substations and TAPs': layer_SubstationsandTAPs_2,'<img src="legend/SDGETransmission_1.png" /> SDGE Transmission': layer_SDGETransmission_1,"OpenStreetMap": layer_OpenStreetMap_0,}).addTo(map);
+        setBounds();
+        </script>
+    </body>
+</html>
