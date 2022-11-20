@@ -34,7 +34,7 @@
         <script src="js/leaflet-control-geocoder.Geocoder.js"></script>
         <script src="data/SDGETransmission_1.js"></script>
         <script src="data/SubstationsandTAPs_2.js"></script>
-        <script src="data/CAISONodes_3.js"></script>
+        <script src="data/CAISONodesByAverageMCC_3.js"></script>
         <script>
         var highlightLayer;
         function highlightFeature(e) {
@@ -53,7 +53,7 @@
         }
         var map = L.map('map', {
             zoomControl:true, maxZoom:28, minZoom:1
-        }).fitBounds([[32.5162428079386,-117.36496049735939],[33.01558419133165,-116.52929800573986]]);
+        }).fitBounds([[32.31468218929928,-117.20595193007487],[33.56961230179876,-115.40475812154621]]);
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
@@ -240,7 +240,7 @@
         });
         bounds_group.addLayer(layer_SubstationsandTAPs_2);
         map.addLayer(layer_SubstationsandTAPs_2);
-        function pop_CAISONodes_3(feature, layer) {
+        function pop_CAISONodesByAverageMCC_3(feature, layer) {
             layer.on({
                 mouseout: function(e) {
                     for (i in e.target._eventParents) {
@@ -286,10 +286,10 @@
             layer.bindPopup(popupContent, {maxHeight: 400});
         }
 
-        function style_CAISONodes_3_0(feature) {
+        function style_CAISONodesByAverageMCC_3_0(feature) {
             if (feature.properties['Average MCC'] >= 0.000000 && feature.properties['Average MCC'] <= 20.000000 ) {
                 return {
-                pane: 'pane_CAISONodes_3',
+                pane: 'pane_CAISONodesByAverageMCC_3',
                 radius: 6.0,
                 opacity: 1,
                 color: 'rgba(35,35,35,1.0)',
@@ -305,7 +305,7 @@
             }
             if (feature.properties['Average MCC'] >= 20.000000 && feature.properties['Average MCC'] <= 40.000000 ) {
                 return {
-                pane: 'pane_CAISONodes_3',
+                pane: 'pane_CAISONodesByAverageMCC_3',
                 radius: 6.0,
                 opacity: 1,
                 color: 'rgba(35,35,35,1.0)',
@@ -321,7 +321,7 @@
             }
             if (feature.properties['Average MCC'] >= 40.000000 && feature.properties['Average MCC'] <= 60.000000 ) {
                 return {
-                pane: 'pane_CAISONodes_3',
+                pane: 'pane_CAISONodesByAverageMCC_3',
                 radius: 6.0,
                 opacity: 1,
                 color: 'rgba(35,35,35,1.0)',
@@ -337,7 +337,7 @@
             }
             if (feature.properties['Average MCC'] >= 60.000000 && feature.properties['Average MCC'] <= 80.000000 ) {
                 return {
-                pane: 'pane_CAISONodes_3',
+                pane: 'pane_CAISONodesByAverageMCC_3',
                 radius: 6.0,
                 opacity: 1,
                 color: 'rgba(35,35,35,1.0)',
@@ -353,7 +353,7 @@
             }
             if (feature.properties['Average MCC'] >= 80.000000 && feature.properties['Average MCC'] <= 100.000000 ) {
                 return {
-                pane: 'pane_CAISONodes_3',
+                pane: 'pane_CAISONodesByAverageMCC_3',
                 radius: 6.0,
                 opacity: 1,
                 color: 'rgba(35,35,35,1.0)',
@@ -369,7 +369,7 @@
             }
             if (feature.properties['Average MCC'] >= 100.000000 && feature.properties['Average MCC'] <= 120.000000 ) {
                 return {
-                pane: 'pane_CAISONodes_3',
+                pane: 'pane_CAISONodesByAverageMCC_3',
                 radius: 6.0,
                 opacity: 1,
                 color: 'rgba(35,35,35,1.0)',
@@ -384,26 +384,26 @@
             }
             }
         }
-        map.createPane('pane_CAISONodes_3');
-        map.getPane('pane_CAISONodes_3').style.zIndex = 403;
-        map.getPane('pane_CAISONodes_3').style['mix-blend-mode'] = 'normal';
-        var layer_CAISONodes_3 = new L.geoJson(json_CAISONodes_3, {
+        map.createPane('pane_CAISONodesByAverageMCC_3');
+        map.getPane('pane_CAISONodesByAverageMCC_3').style.zIndex = 403;
+        map.getPane('pane_CAISONodesByAverageMCC_3').style['mix-blend-mode'] = 'normal';
+        var layer_CAISONodesByAverageMCC_3 = new L.geoJson(json_CAISONodesByAverageMCC_3, {
             attribution: '',
             interactive: true,
-            dataVar: 'json_CAISONodes_3',
-            layerName: 'layer_CAISONodes_3',
-            pane: 'pane_CAISONodes_3',
-            onEachFeature: pop_CAISONodes_3,
+            dataVar: 'json_CAISONodesByAverageMCC_3',
+            layerName: 'layer_CAISONodesByAverageMCC_3',
+            pane: 'pane_CAISONodesByAverageMCC_3',
+            onEachFeature: pop_CAISONodesByAverageMCC_3,
             pointToLayer: function (feature, latlng) {
                 var context = {
                     feature: feature,
                     variables: {}
                 };
-                return L.circleMarker(latlng, style_CAISONodes_3_0(feature));
+                return L.circleMarker(latlng, style_CAISONodesByAverageMCC_3_0(feature));
             },
         });
-        bounds_group.addLayer(layer_CAISONodes_3);
-        map.addLayer(layer_CAISONodes_3);
+        bounds_group.addLayer(layer_CAISONodesByAverageMCC_3);
+        map.addLayer(layer_CAISONodesByAverageMCC_3);
         var osmGeocoder = new L.Control.Geocoder({
             collapsed: true,
             position: 'topleft',
@@ -415,7 +415,7 @@
         document.getElementsByClassName('leaflet-control-geocoder-icon')[0]
         .title += 'Search for a place';
         var baseMaps = {};
-        L.control.layers(baseMaps,{'CAISO Nodes<br /><table><tr><td style="text-align: center;"><img src="legend/CAISONodes_3_0200.png" /></td><td>0 - 20</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodes_3_20401.png" /></td><td>20 - 40</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodes_3_40602.png" /></td><td>40 - 60</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodes_3_60803.png" /></td><td>60 - 80</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodes_3_801004.png" /></td><td>80 - 100</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodes_3_1001205.png" /></td><td>100 - 120</td></tr></table>': layer_CAISONodes_3,'<img src="legend/SubstationsandTAPs_2.png" /> Substations and TAPs': layer_SubstationsandTAPs_2,'<img src="legend/SDGETransmission_1.png" /> SDGE Transmission': layer_SDGETransmission_1,"OpenStreetMap": layer_OpenStreetMap_0,}).addTo(map);
+        L.control.layers(baseMaps,{'CAISO Nodes - By Average MCC ($)<br /><table><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_0200.png" /></td><td>0 - 20</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_20401.png" /></td><td>20 - 40</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_40602.png" /></td><td>40 - 60</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_60803.png" /></td><td>60 - 80</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_801004.png" /></td><td>80 - 100</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_1001205.png" /></td><td>100 - 120</td></tr></table>': layer_CAISONodesByAverageMCC_3,'<img src="legend/SubstationsandTAPs_2.png" /> Substations and TAPs': layer_SubstationsandTAPs_2,'<img src="legend/SDGETransmission_1.png" /> SDGE Transmission': layer_SDGETransmission_1,"OpenStreetMap": layer_OpenStreetMap_0,}).addTo(map);
         setBounds();
         </script>
     </body>
