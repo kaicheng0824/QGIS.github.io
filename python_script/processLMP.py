@@ -80,10 +80,10 @@ def main():
 
     getLMP_functions.terminal_print('Start Plotting and Saving Time Series, Time Elapsed: {}'.format(getLMP_functions.getTimeElapse(start)))
 
-    pd_MCC_Trans.to_csv('All_node_MCC.csv')
-    pd_LMP_Trans.to_csv('All_node_LMP.csv')
-    pd_MCE_trans.to_csv('All_node_MCE.csv')
-    pd_MCL_trans.to_csv('All_node_MCL.csv')
+    pd_MCC_Trans.to_csv('./data/All_node_MCC.csv')
+    pd_LMP_Trans.to_csv('/data/All_node_LMP.csv')
+    pd_MCE_trans.to_csv('/data/All_node_MCE.csv')
+    pd_MCL_trans.to_csv('/data/All_node_MCL.csv')
 
     # Save Figure
     # getLMP_functions.plot_all_node(pd_MCC_Trans,'MCC',num_entries)

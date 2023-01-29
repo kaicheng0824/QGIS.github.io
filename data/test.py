@@ -3,11 +3,21 @@ import json
 from collections import OrderedDict
 
 li = []
-with open('./data/NodeMetaData.csv', newline='') as csvfile:
+with open('./data/NodeMetaDataTest.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         d = OrderedDict()
         d['type'] = 'Feature'
+        d['properties'] = {
+            'PNODE_ID': row['PNODE_ID'],
+            'RES_TYPE': row['Type'],
+            'Lat': row['Lat'],
+            'Lng': row['Lng'],
+            'SDGENodeLMP': row['NodeLMP'],
+            'SDGENodeMCC': row['NodeMCC'],
+            'SDFENodeMCE': row['NodeMCE'],
+            'Average MCC': row['Average MCC']
+        }
         d['geometry'] = {
             'type': 'Point',
             'coordinates': [float(row['Lat']), float(row['Lng'])]
@@ -23,6 +33,6 @@ d['features'] = li
 
 print(d)
 
-with open('./data/output.js','w') as f:
+with open('./data/CAISONodesByAverageMCC_3.js','w') as f:
     f.write('var json_CAISONodesByAverageMCC_3 = ')
     json.dump(d,f,indent=2)
