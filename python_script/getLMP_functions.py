@@ -65,7 +65,7 @@ def plot_all_node(df,title,node_count):
         plt.xlabel('Day 1 to Day 7',fontsize=20)
         plt.ylabel('Congestion Price ($)',fontsize=20)
     
-    plt.savefig("./NODE_LMP_Plots/{}_All_Node.png".format(title),bbox_inches="tight")
+    plt.savefig("./data/NODE_LMP_Plots/{}_All_Node.png".format(title),bbox_inches="tight")
     plt.close()
 
 def plot_node_prices(df,title,node,node_count):
@@ -89,8 +89,8 @@ def plot_node_prices(df,title,node,node_count):
     while ' ' in title:
         title = title.replace(' ', '')
 
-    creare_folder('./NODE_LMP_Plots/{}'.format(node))
-    plt.savefig("./NODE_LMP_Plots/{}/{}.png".format(node,title))
+    creare_folder('./data/NODE_LMP_Plots/{}'.format(node))
+    plt.savefig("./data/NODE_LMP_Plots/{}/{}.png".format(node,title))
     plt.close()
 
 def getTimeElapse(theTime):
