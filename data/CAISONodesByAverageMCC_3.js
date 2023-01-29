@@ -1,7 +1,6 @@
 var json_CAISONodesByAverageMCC_3 = {
   "type": "FeatureCollection",
   "name": "CAISONodesByAverageMCC_3",
-  "crs": "CAISONodesByAverageMCC_3",
   "features": [
     {
       "type": "Feature",

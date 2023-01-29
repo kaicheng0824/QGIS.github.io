@@ -17,7 +17,8 @@ with open('./data/NodeMetaData.csv', newline='') as csvfile:
 d = OrderedDict()
 d['type'] = 'FeatureCollection'
 d['name'] = "CAISONodesByAverageMCC_3"
-d['crs'] = "CAISONodesByAverageMCC_3"
+
+# d['crs'] = "crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}}
 d['features'] = li
 
 print(d)

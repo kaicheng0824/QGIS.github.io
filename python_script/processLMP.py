@@ -24,7 +24,7 @@ def main():
     index = 0
     df1 = pd.DataFrame()
 
-    for root, dirs, files in os.walk('NODE_LMP'):
+    for root, dirs, files in os.walk('./data/NODE_LMP'):
         for filename in files:
             if(filename[-4:]!='.csv'):
                 continue
@@ -38,13 +38,25 @@ def main():
             df1 = pd.concat([df1,df2],ignore_index=True)
 
     Node = df1
-    # print(df1)
 
     # Get LMP Online
     LMP = Node[Node['LMP_TYPE']=='LMP'] 
     MCC = Node[Node['LMP_TYPE']=='MCC'] # Congestion
     MCE = Node[Node['LMP_TYPE']=='MCE'] # Energy
     MCL = Node[Node['LMP_TYPE']=='MCL'] # Loss
+
+    # Add Average MCC to NodeMetaData
+    AllNodeMCC = pd.read_csv('./data/All_node_MCC.csv')
+    # print(AllNodeMCC)
+
+    avg_mcc = AllNodeMCC.describe().loc['mean'].to_frame()
+    avg_mcc_value = avg_mcc['mean'].to_numpy()
+    avg = pd.DataFrame({"PNODE_ID": avg_mcc.index, "Average MCC": list(avg_mcc_value)})
+
+    sd_nodes = pd.merge(sd_nodes,avg, on='PNODE_ID', how='inner')
+    sd_nodes.to_csv('./data/NodeMetaDataTest.csv')
+
+    exit()
 
     # Get Time Series
     getLMP_functions.terminal_print('Start Generating Time Series, Time Elapsed: {}'.format(getLMP_functions.getTimeElapse(start)))
@@ -74,9 +86,9 @@ def main():
     pd_MCL_trans.to_csv('All_node_MCL.csv')
 
     # Save Figure
-    getLMP_functions.plot_all_node(pd_MCC_Trans,'MCC',num_entries)
-    getLMP_functions.plot_all_node(pd_LMP_Trans,'LMP',num_entries)
-    getLMP_functions.plot_all_node(pd_MCE_trans,'MCE',num_entries)
+    # getLMP_functions.plot_all_node(pd_MCC_Trans,'MCC',num_entries)
+    # getLMP_functions.plot_all_node(pd_LMP_Trans,'LMP',num_entries)
+    # getLMP_functions.plot_all_node(pd_MCE_trans,'MCE',num_entries)
 
     # # # Save Figure for each node
     for id in pnodes_id:

@@ -4,5 +4,5 @@ import processLMP
 
 if __name__ == "__main__":
     # getNodeMetadata.main()
-    getLMP.main()
+    # getLMP.main()
     processLMP.main()
