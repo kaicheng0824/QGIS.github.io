@@ -1,6 +1,12 @@
 var json_CAISONodesByAverageMCC_3 = {
   "type": "FeatureCollection",
   "name": "CAISONodesByAverageMCC_3",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
   "features": [
     {
       "type": "Feature",
@@ -17,8 +23,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.11432399998879,
-          -106.84841683416694
+          -106.84841683416694,
+          32.11432399998879
         ]
       }
     },
@@ -37,8 +43,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.11432399998879,
-          -106.84852316583306
+          -106.84852316583306,
+          32.11432399998879
         ]
       }
     },
@@ -57,8 +63,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.863658,
-          -105.999137
+          -105.999137,
+          32.863658
         ]
       }
     },
@@ -77,8 +83,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.975434,
-          -105.974688
+          -105.974688,
+          32.975434
         ]
       }
     },
@@ -97,8 +103,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.565392,
-          -107.466737
+          -107.466737,
+          32.565392
         ]
       }
     },
@@ -117,8 +123,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.643336,
-          -105.208497
+          -105.208497,
+          35.643336
         ]
       }
     },
@@ -137,8 +143,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.64111799998742,
-          -105.18087479471204
+          -105.18087479471204,
+          35.64111799998742
         ]
       }
     },
@@ -157,8 +163,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.64111799998742,
-          -105.18098520528798
+          -105.18098520528798,
+          35.64111799998742
         ]
       }
     },
@@ -177,8 +183,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.65067831389528,
-          -104.01434503683612
+          -104.01434503683612,
+          34.65067831389528
         ]
       }
     },
@@ -197,8 +203,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.65059999995065,
-          -104.0142900737761
+          -104.0142900737761,
+          34.65059999995065
         ]
       }
     },
@@ -217,8 +223,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.616633,
-          -106.815587
+          -106.815587,
+          34.616633
         ]
       }
     },
@@ -237,8 +243,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.012058,
-          -106.095783
+          -106.095783,
+          35.012058
         ]
       }
     },
@@ -257,8 +263,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.65052168608005,
-          -104.01434503693996
+          -104.01434503693996,
+          34.65052168608005
         ]
       }
     },
@@ -277,8 +283,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.80926422838272,
-          -106.525602
+          -106.525602,
+          34.80926422838272
         ]
       }
     },
@@ -297,8 +303,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.80918288579527,
-          -106.52554480163823
+          -106.52554480163823,
+          34.80918288579527
         ]
       }
     },
@@ -317,8 +323,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.468438,
-          -104.635097
+          -104.635097,
+          36.468438
         ]
       }
     },
@@ -337,8 +343,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.744085,
-          -106.653449
+          -106.653449,
+          34.744085
         ]
       }
     },
@@ -357,8 +363,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.741417,
-          -106.657062
+          -106.657062,
+          34.741417
         ]
       }
     },
@@ -377,8 +383,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.240083,
-          -106.423086
+          -106.423086,
+          36.240083
         ]
       }
     },
@@ -397,8 +403,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.522221,
-          -108.155098
+          -108.155098,
+          36.522221
         ]
       }
     },
@@ -417,8 +423,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.80918288579527,
-          -106.52565919836177
+          -106.52565919836177,
+          34.80918288579527
         ]
       }
     },
@@ -437,8 +443,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.68590699998685,
-          -108.48496001961313
+          -108.48496001961313,
+          36.68590699998685
         ]
       }
     },
@@ -457,8 +463,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.68590699998685,
-          -108.48507198038686
+          -108.48507198038686,
+          36.68590699998685
         ]
       }
     },
@@ -477,8 +483,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.828829,
-          -105.001307
+          -105.001307,
+          34.828829
         ]
       }
     },
@@ -497,8 +503,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.169082,
-          -107.754199
+          -107.754199,
+          32.169082
         ]
       }
     },
@@ -517,8 +523,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.69388999998859,
-          -108.22755676263536
+          -108.22755676263536,
+          32.69388999998859
         ]
       }
     },
@@ -537,8 +543,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.78246999998868,
-          -108.09847673240463
+          -108.09847673240463,
+          32.78246999998868
         ]
       }
     },
@@ -557,8 +563,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.69388999998859,
-          -108.22766323736464
+          -108.22766323736464,
+          32.69388999998859
         ]
       }
     },
@@ -577,8 +583,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.78246999998868,
-          -108.09858326759534
+          -108.09858326759534,
+          32.78246999998868
         ]
       }
     },
@@ -597,8 +603,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.634478,
-          -106.707578
+          -106.707578,
+          34.634478
         ]
       }
     },
@@ -617,8 +623,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.763441,
-          -108.538589
+          -108.538589,
+          31.763441
         ]
       }
     },
@@ -637,8 +643,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.65052168608005,
-          -104.01445496306005
+          -104.01445496306005,
+          34.65052168608005
         ]
       }
     },
@@ -657,8 +663,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.65059999995065,
-          -104.01450992622392
+          -104.01450992622392,
+          34.65059999995065
         ]
       }
     },
@@ -677,8 +683,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.35682099998887,
-          -106.7894978206245
+          -106.7894978206245,
+          32.35682099998887
         ]
       }
     },
@@ -697,8 +703,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.35682099998887,
-          -106.7896041793755
+          -106.7896041793755,
+          32.35682099998887
         ]
       }
     },
@@ -717,8 +723,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.83299,
-          -106.774307
+          -106.774307,
+          34.83299
         ]
       }
     },
@@ -737,8 +743,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.830545,
-          -106.771223
+          -106.771223,
+          34.830545
         ]
       }
     },
@@ -757,8 +763,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.077253999987555,
-          -106.86276188301626
+          -106.86276188301626,
+          35.077253999987555
         ]
       }
     },
@@ -777,8 +783,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.077253999987555,
-          -106.86287211698374
+          -106.86287211698374,
+          35.077253999987555
         ]
       }
     },
@@ -797,8 +803,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.01279,
-          -106.856336
+          -106.856336,
+          35.01279
         ]
       }
     },
@@ -817,8 +823,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.171641135599224,
-          -106.60192473289774
+          -106.60192473289774,
+          35.171641135599224
         ]
       }
     },
@@ -837,8 +843,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.25692,
-          -107.250976
+          -107.250976,
+          35.25692
         ]
       }
     },
@@ -857,8 +863,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.77,
-          -108.15
+          -108.15,
+          32.77
         ]
       }
     },
@@ -877,8 +883,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.71,
-          -108.31
+          -108.31,
+          32.71
         ]
       }
     },
@@ -897,8 +903,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.027677,
-          -106.642247
+          -106.642247,
+          35.027677
         ]
       }
     },
@@ -917,8 +923,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.28228,
-          -106.808219
+          -106.808219,
+          35.28228
         ]
       }
     },
@@ -937,8 +943,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.23751495052223,
-          -108.54844365585338
+          -108.54844365585338,
+          32.23751495052223
         ]
       }
     },
@@ -957,8 +963,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.2373350493886,
-          -108.54844365606394
+          -108.54844365606394,
+          32.2373350493886
         ]
       }
     },
@@ -977,8 +983,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.2373350493886,
-          -108.54865634393606
+          -108.54865634393606,
+          32.2373350493886
         ]
       }
     },
@@ -997,8 +1003,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.23751495052223,
-          -108.54865634414664
+          -108.54865634414664,
+          32.23751495052223
         ]
       }
     },
@@ -1017,8 +1023,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.272229,
-          -107.356793
+          -107.356793,
+          35.272229
         ]
       }
     },
@@ -1037,8 +1043,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.17146086430088,
-          -106.60192473314224
+          -106.60192473314224,
+          35.17146086430088
         ]
       }
     },
@@ -1057,8 +1063,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.17146086430088,
-          -106.60214526685778
+          -106.60214526685778,
+          35.17146086430088
         ]
       }
     },
@@ -1077,8 +1083,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.171641135599224,
-          -106.60214526710224
+          -106.60214526710224,
+          35.171641135599224
         ]
       }
     },
@@ -1097,8 +1103,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.168006,
-          -106.600187
+          -106.600187,
+          35.168006
         ]
       }
     },
@@ -1117,8 +1123,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.361472,
-          -106.855934
+          -106.855934,
+          35.361472
         ]
       }
     },
@@ -1137,8 +1143,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.80191599998678,
-          -108.44229487317608
+          -108.44229487317608,
+          36.80191599998678
         ]
       }
     },
@@ -1157,8 +1163,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.80191599998678,
-          -108.44240712682394
+          -108.44240712682394,
+          36.80191599998678
         ]
       }
     },
@@ -1177,8 +1183,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.183051,
-          -106.810922
+          -106.810922,
+          35.183051
         ]
       }
     },
@@ -1197,8 +1203,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.643336,
-          -106.731993
+          -106.731993,
+          35.643336
         ]
       }
     },
@@ -1217,8 +1223,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.317552,
-          -109.165362
+          -109.165362,
+          34.317552
         ]
       }
     },
@@ -1237,8 +1243,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.565522,
-          -106.08944
+          -106.08944,
+          35.565522
         ]
       }
     },
@@ -1257,8 +1263,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.002106,
-          -106.637234
+          -106.637234,
+          35.002106
         ]
       }
     },
@@ -1277,8 +1283,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.987497,
-          -106.733911
+          -106.733911,
+          34.987497
         ]
       }
     },
@@ -1297,8 +1303,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.875305,
-          -106.320723
+          -106.320723,
+          35.875305
         ]
       }
     },
@@ -1317,8 +1323,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.65067831389528,
-          -104.01445496316389
+          -104.01445496316389,
+          34.65067831389528
         ]
       }
     },
@@ -1337,8 +1343,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.690969,
-          -106.685128
+          -106.685128,
+          34.690969
         ]
       }
     },
@@ -1357,8 +1363,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.611429,
-          -106.732259
+          -106.732259,
+          34.611429
         ]
       }
     },
@@ -1377,8 +1383,8 @@ var json_CAISONodesByAverageMCC_3 = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.472717,
-          -105.96719
+          -105.96719,
+          34.472717
         ]
       }
     }

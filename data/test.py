@@ -20,13 +20,17 @@ with open('./data/NodeMetaDataTest.csv', newline='') as csvfile:
         }
         d['geometry'] = {
             'type': 'Point',
-            'coordinates': [float(row['Lat']), float(row['Lng'])]
+            'coordinates': [float(row['Lng']), float(row['Lat'])]
         }
         li.append(d)
 
 d = OrderedDict()
 d['type'] = 'FeatureCollection'
 d['name'] = "CAISONodesByAverageMCC_3"
+d['crs'] = {}
+d['crs']['type'] = 'name'
+d['crs']['properties'] = {}
+d['crs']['properties']['name'] = 'urn:ogc:def:crs:OGC:1.3:CRS84'
 
 # d['crs'] = "crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}}
 d['features'] = li
