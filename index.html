@@ -53,7 +53,7 @@
         }
         var map = L.map('map', {
             zoomControl:true, maxZoom:28, minZoom:1
-        }).fitBounds([[35.837377,-124.3276297],[60.384359,-66.885666]]);
+        }).fitBounds([[35.837377,-124.3276297],[70.384359,-10.885666]]);
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
@@ -419,7 +419,7 @@
         document.getElementsByClassName('leaflet-control-geocoder-icon')[0]
         .title += 'Search for a place';
         var baseMaps = {};
-        L.control.layers(baseMaps,{'CAISO Nodes - By Average MCC ($)<br /><table><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_0200.png" /></td><td>0 - 20</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_20401.png" /></td><td>20 - 40</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_40602.png" /></td><td>40 - 60</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_60803.png" /></td><td>60 - 80</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_801004.png" /></td><td>80 - 100</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_1001205.png" /></td><td>100 - 120</td></tr></table>': layer_CAISONodesByAverageMCC_3,'<img src="legend/SubstationsandTAPs_2.png" /> Substations and TAPs': layer_SubstationsandTAPs_2,'<img src="legend/SDGETransmission_1.png" /> SDGE Transmission': layer_SDGETransmission_1,"OpenStreetMap": layer_OpenStreetMap_0,}).addTo(map);
+        L.control.layers(baseMaps,{'Nodes - By Average MCC ($)<br /><table><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_0200.png" /></td><td> < 20</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_20401.png" /></td><td>20 - 40</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_40602.png" /></td><td>40 - 60</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_60803.png" /></td><td>60 - 80</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_801004.png" /></td><td>80 - 100</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_1001205.png" /></td><td>100 - 120</td></tr></table>': layer_CAISONodesByAverageMCC_3,'<img src="legend/SubstationsandTAPs_2.png" /> Substations and TAPs': layer_SubstationsandTAPs_2,'<img src="legend/SDGETransmission_1.png" /> Transmission Line': layer_SDGETransmission_1,"OpenStreetMap": layer_OpenStreetMap_0,}).addTo(map);
         setBounds();
         </script>
     </body>

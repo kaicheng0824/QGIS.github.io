@@ -2,9 +2,9 @@ import csv
 import json
 from collections import OrderedDict
 
-def main():
+def main(filename):
     li = []
-    with open('./data/NodeMetaData.csv', newline='') as csvfile:
+    with open('./data/{}'.format(filename), newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             d = OrderedDict()

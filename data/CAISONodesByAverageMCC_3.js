@@ -11,3420 +11,5140 @@ var json_CAISONodesByAverageMCC_3 = {
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "AFTON_3_AFTONCTGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.11432399998879",
-        "Long": "-106.84841683416694",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/AFTON_3_AFTONCTGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/AFTON_3_AFTONCTGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/AFTON_3_AFTONCTGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-62.963856562500006"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.84841683416694,
-          32.11432399998879
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "AFTON_3_AFTONSTGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.11432399998879",
-        "Long": "-106.84852316583306",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/AFTON_3_AFTONSTGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/AFTON_3_AFTONSTGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/AFTON_3_AFTONSTGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-62.963856562500006"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.84852316583306,
-          32.11432399998879
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ALAMOGCP_1_ALAMOPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.863658",
-        "Long": "-105.999137",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ALAMOGCP_1_ALAMOPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ALAMOGCP_1_ALAMOPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ALAMOGCP_1_ALAMOPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-63.66968697916666"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.999137,
-          32.863658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ALAMOGCP_1_OTEROPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.975434",
-        "Long": "-105.974688",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ALAMOGCP_1_OTEROPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ALAMOGCP_1_OTEROPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ALAMOGCP_1_OTEROPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-63.66968697916666"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.974688,
-          32.975434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ALLN_1_ALLN SOLARGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.565392",
-        "Long": "-107.466737",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ALLN_1_ALLN SOLARGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ALLN_1_ALLN SOLARGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ALLN_1_ALLN SOLARGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-63.31254489583332"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.466737,
-          32.565392
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ARRIBAT_1_LASVEGASPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.643336",
-        "Long": "-105.208497",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ARRIBAT_1_LASVEGASPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ARRIBAT_1_LASVEGASPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ARRIBAT_1_LASVEGASPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-72.55338489583333"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.208497,
-          35.643336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ARRIBA_1_SANMIGUEL1PVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.64111799998742",
-        "Long": "-105.18087479471204",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ARRIBA_1_SANMIGUEL1PVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ARRIBA_1_SANMIGUEL1PVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ARRIBA_1_SANMIGUEL1PVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-72.55338489583333"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.18087479471204,
-          35.64111799998742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ARRIBA_1_SANMIGUEL2PVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.64111799998742",
-        "Long": "-105.18098520528798",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ARRIBA_1_SANMIGUEL2PVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ARRIBA_1_SANMIGUEL2PVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ARRIBA_1_SANMIGUEL2PVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-72.55338489583333"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.18098520528798,
-          35.64111799998742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ARROYO_1_ARROYOBATTERYGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.65067831389528",
-        "Long": "-104.01434503683612",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ARROYO_1_ARROYOBATTERYGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ARROYO_1_ARROYOBATTERYGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ARROYO_1_ARROYOBATTERYGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-78.71352656250001"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.01434503683612,
-          34.65067831389528
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ARROYO_1_ARROYOSOLARGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.65059999995065",
-        "Long": "-104.0142900737761",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ARROYO_1_ARROYOSOLARGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ARROYO_1_ARROYOSOLARGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ARROYO_1_ARROYOSOLARGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-78.71352656250001"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.0142900737761,
-          34.65059999995065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "BANGS_LNODEKGC",
+        "PNODE_ID": "ALPINE_6_N001",
         "RES_TYPE": "LOAD",
-        "Lat": "37.70469",
-        "Long": "-121.0418",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/BANGS_LNODEKGC/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/BANGS_LNODEKGC/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/BANGS_LNODEKGC/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "19.25544760416666"
+        "Lat": "32.82779814",
+        "Long": "-116.789691",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ALPINE_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ALPINE_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ALPINE_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.98141286458333"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.0418,
-          37.70469
+          -116.789691,
+          32.82779814
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "BELEN_1_LALUZGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.616633",
-        "Long": "-106.815587",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/BELEN_1_LALUZGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/BELEN_1_LALUZGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/BELEN_1_LALUZGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-73.41321583333333"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.815587,
-          34.616633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "BRGSMR_LNODEGZB",
+        "PNODE_ID": "ALPINE_6_N005",
         "RES_TYPE": "LOAD",
-        "Lat": "37.66621999998627",
-        "Long": "-120.97704287657282",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/BRGSMR_LNODEGZB/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/BRGSMR_LNODEGZB/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/BRGSMR_LNODEGZB/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.51485593749999"
+        "Lat": "32.82775303",
+        "Long": "-116.7901154",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ALPINE_6_N005/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ALPINE_6_N005/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ALPINE_6_N005/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "20.93272114583335"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.97704287657282,
-          37.66621999998627
+          -116.7901154,
+          32.82775303
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "BRGSMR_LNODETHU",
+        "PNODE_ID": "ARTESN_6_N001",
         "RES_TYPE": "LOAD",
-        "Lat": "37.66621999998627",
-        "Long": "-120.97715712342718",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/BRGSMR_LNODETHU/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/BRGSMR_LNODETHU/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/BRGSMR_LNODETHU/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.51485593749999"
+        "Lat": "33.02122758",
+        "Long": "-117.1341006",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ARTESN_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ARTESN_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ARTESN_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "49.098981059027864"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.97715712342718,
-          37.66621999998627
+          -117.1341006,
+          33.02122758
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "BRITTON_1_BRITTONPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.012058",
-        "Long": "-106.095783",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/BRITTON_1_BRITTONPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/BRITTON_1_BRITTONPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/BRITTON_1_BRITTONPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.28516729166665"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.095783,
-          35.012058
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "CAM_GNODE1",
-        "RES_TYPE": "GEN",
-        "Lat": "38.7956669999859",
-        "Long": "-120.6219594423665",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/CAM_GNODE1/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/CAM_GNODE1/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/CAM_GNODE1/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.498299479166663"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6219594423665,
-          38.7956669999859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "CAM_GNODE2",
-        "RES_TYPE": "GEN",
-        "Lat": "38.7956669999859",
-        "Long": "-120.6220745576335",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/CAM_GNODE2/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/CAM_GNODE2/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/CAM_GNODE2/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.498299479166663"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.6220745576335,
-          38.7956669999859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "CIBOLA_1_ROUTE66GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.65052168608005",
-        "Long": "-104.01434503693996",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/CIBOLA_1_ROUTE66GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/CIBOLA_1_ROUTE66GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/CIBOLA_1_ROUTE66GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.18849802083332"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.01434503693996,
-          34.65052168608005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "CIG_GNODEPKR",
-        "RES_TYPE": "GEN",
-        "Lat": "38.445751",
-        "Long": "-121.462621",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/CIG_GNODEPKR/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/CIG_GNODEPKR/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/CIG_GNODEPKR/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.687013645833327"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.462621,
-          38.445751
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "CLARIBEL_LNODEGFP",
+        "PNODE_ID": "ASH_6_N001",
         "RES_TYPE": "LOAD",
-        "Lat": "37.71028",
-        "Long": "-120.9688",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/CLARIBEL_LNODEGFP/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/CLARIBEL_LNODEGFP/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/CLARIBEL_LNODEGFP/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.369331354166658"
+        "Lat": "33.13665216",
+        "Long": "-117.0700699",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ASH_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ASH_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ASH_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "63.83994968749989"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.9688,
-          37.71028
+          -117.0700699,
+          33.13665216
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "CLAUS_LNODEKSN",
+        "PNODE_ID": "ASH_6_N005",
         "RES_TYPE": "LOAD",
-        "Lat": "37.63938999998621",
-        "Long": "-120.91954289863077",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/CLAUS_LNODEKSN/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/CLAUS_LNODEKSN/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/CLAUS_LNODEKSN/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.575470416666654"
+        "Lat": "33.13678728",
+        "Long": "-117.0705751",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ASH_6_N005/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ASH_6_N005/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ASH_6_N005/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.76530965277777"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.91954289863077,
-          37.63938999998621
+          -117.0705751,
+          33.13678728
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "CLAUS_LNODESME",
+        "PNODE_ID": "ASH_6_N101",
         "RES_TYPE": "LOAD",
-        "Lat": "37.63938999998621",
-        "Long": "-120.91965710136924",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/CLAUS_LNODESME/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/CLAUS_LNODESME/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/CLAUS_LNODESME/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.575470416666654"
+        "Lat": "33.13662312",
+        "Long": "-117.0704085",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ASH_6_N101/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ASH_6_N101/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ASH_6_N101/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "59.81621104166668"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.91965710136924,
-          37.63938999998621
+          -117.0704085,
+          33.13662312
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "CLINESCO_3_ELCABOWF1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.80926422838272",
-        "Long": "-106.525602",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/CLINESCO_3_ELCABOWF1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/CLINESCO_3_ELCABOWF1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/CLINESCO_3_ELCABOWF1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.88676187500002"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.525602,
-          34.80926422838272
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "CLINESCO_3_ELCABOWF2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.80918288579527",
-        "Long": "-106.52554480163823",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/CLINESCO_3_ELCABOWF2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/CLINESCO_3_ELCABOWF2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/CLINESCO_3_ELCABOWF2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.88676187500002"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.52554480163823,
-          34.80918288579527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "CMFS_1_SOLA_CIMGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "36.468438",
-        "Long": "-104.635097",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/CMFS_1_SOLA_CIMGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/CMFS_1_SOLA_CIMGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/CMFS_1_SOLA_CIMGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-70.7061303125"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.635097,
-          36.468438
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "COLLEGE_1_MANZANOPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.744085",
-        "Long": "-106.653449",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/COLLEGE_1_MANZANOPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/COLLEGE_1_MANZANOPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/COLLEGE_1_MANZANOPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-73.87187416666667"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.653449,
-          34.744085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "COLLEGE_1_VISTAPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.741417",
-        "Long": "-106.657062",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/COLLEGE_1_VISTAPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/COLLEGE_1_VISTAPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/COLLEGE_1_VISTAPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-73.87187416666667"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.657062,
-          34.741417
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "COYTEJCT_6_ABIQUIUHYDROGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "36.240083",
-        "Long": "-106.423086",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/COYTEJCT_6_ABIQUIUHYDROGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/COYTEJCT_6_ABIQUIUHYDROGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/COYTEJCT_6_ABIQUIUHYDROGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-75.28303197916668"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.423086,
-          36.240083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "CRR_7_UNIT1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "40.64683999998475",
-        "Long": "-122.62710042533163",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/CRR_7_UNIT1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/CRR_7_UNIT1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/CRR_7_UNIT1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "8.192979479166668"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.62710042533163,
-          40.64683999998475
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "CRR_7_UNIT2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "40.64683999998475",
-        "Long": "-122.62721957466836",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/CRR_7_UNIT2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/CRR_7_UNIT2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/CRR_7_UNIT2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "8.192979479166668"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.62721957466836,
-          40.64683999998475
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "DONPEDRO_6_MIDUNIT1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.69681945189631",
-        "Long": "-120.41992431977502",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/DONPEDRO_6_MIDUNIT1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/DONPEDRO_6_MIDUNIT1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/DONPEDRO_6_MIDUNIT1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "16.11066864583333"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.41992431977502,
-          37.69681945189631
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "DONPEDRO_6_MIDUNIT2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.696638577993326",
-        "Long": "-120.41992432005384",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/DONPEDRO_6_MIDUNIT2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/DONPEDRO_6_MIDUNIT2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/DONPEDRO_6_MIDUNIT2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "16.11066864583333"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.41992432005384,
-          37.696638577993326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "DONPEDRO_6_MIDUNIT3GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.696638577993326",
-        "Long": "-120.42015290994614",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/DONPEDRO_6_MIDUNIT3GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/DONPEDRO_6_MIDUNIT3GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/DONPEDRO_6_MIDUNIT3GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.369335208333325"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.42015290994614,
-          37.696638577993326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "DONPEDRO_6_MIDUNIT4GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.69681945189631",
-        "Long": "-120.42015291022496",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/DONPEDRO_6_MIDUNIT4GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/DONPEDRO_6_MIDUNIT4GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/DONPEDRO_6_MIDUNIT4GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "16.11066864583333"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.42015291022496,
-          37.69681945189631
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ELBUTTE_1_ELBUTTEHYDROGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "36.522221",
-        "Long": "-108.155098",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ELBUTTE_1_ELBUTTEHYDROGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ELBUTTE_1_ELBUTTEHYDROGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ELBUTTE_1_ELBUTTEHYDROGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-65.62419958333332"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.155098,
-          36.522221
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ELCERRO_1_MEADOWLAKEPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.80918288579527",
-        "Long": "-106.52565919836177",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ELCERRO_1_MEADOWLAKEPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ELCERRO_1_MEADOWLAKEPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ELCERRO_1_MEADOWLAKEPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-73.93429104166664"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.52565919836177,
-          34.80918288579527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ELK_GNODEBOE",
-        "RES_TYPE": "GEN",
-        "Lat": "38.254784",
-        "Long": "-121.278195",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEBOE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEBOE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEBOE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.701696041666665"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.278195,
-          38.254784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ELK_GNODEBRU",
-        "RES_TYPE": "GEN",
-        "Lat": "38.365542",
-        "Long": "-121.41692",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEBRU/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEBRU/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEBRU/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.701696041666665"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.41692,
-          38.365542
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ELK_GNODEESC",
-        "RES_TYPE": "GEN",
-        "Lat": "38.350107",
-        "Long": "-121.408849",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEESC/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEESC/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEESC/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.701696041666665"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.408849,
-          38.350107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ELK_GNODEKAM",
-        "RES_TYPE": "GEN",
-        "Lat": "38.364956",
-        "Long": "-121.38109",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEKAM/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEKAM/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEKAM/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.701696041666665"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.38109,
-          38.364956
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ELK_GNODEKOS",
-        "RES_TYPE": "GEN",
-        "Lat": "38.239794",
-        "Long": "-121.337571",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEKOS/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEKOS/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEKOS/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.701696041666665"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.337571,
-          38.239794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ELK_GNODEMCK",
-        "RES_TYPE": "GEN",
-        "Lat": "38.302534",
-        "Long": "-121.296522",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEMCK/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEMCK/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEMCK/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.701696041666665"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.296522,
-          38.302534
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ELK_GNODEPTP",
-        "RES_TYPE": "GEN",
-        "Lat": "38.339226",
-        "Long": "-121.431903",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEPTP/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEPTP/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODEPTP/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.701696041666665"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.431903,
-          38.339226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ELK_GNODERSS",
-        "RES_TYPE": "GEN",
-        "Lat": "38.344405",
-        "Long": "-121.123591",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODERSS/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODERSS/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODERSS/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.701696041666665"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.123591,
-          38.344405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ELK_GNODETWI",
-        "RES_TYPE": "GEN",
-        "Lat": "38.342876",
-        "Long": "-121.119841",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODETWI/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODETWI/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ELK_GNODETWI/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.701696041666665"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.119841,
-          38.342876
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ENSLEN_LNODEHKQ",
+        "PNODE_ID": "AVOCADO_6_N001",
         "RES_TYPE": "LOAD",
-        "Lat": "37.65224426097517",
-        "Long": "-121.0013",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ENSLEN_LNODEHKQ/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ENSLEN_LNODEHKQ/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ENSLEN_LNODEHKQ/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.578969583333322"
+        "Lat": "33.3846983",
+        "Long": "-117.2367474",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/AVOCADO_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/AVOCADO_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/AVOCADO_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "20.932721145833355"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.0013,
-          37.65224426097517
+          -117.2367474,
+          33.3846983
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "ENSLEN_LNODELOU",
+        "PNODE_ID": "AVOCADO_6_N002",
         "RES_TYPE": "LOAD",
-        "Lat": "37.65216286949752",
-        "Long": "-121.001240647499",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ENSLEN_LNODELOU/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ENSLEN_LNODELOU/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ENSLEN_LNODELOU/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.578969583333322"
+        "Lat": "33.38470052",
+        "Long": "-117.2370801",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/AVOCADO_6_N002/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/AVOCADO_6_N002/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/AVOCADO_6_N002/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "50.328609322916684"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.001240647499,
-          37.65216286949752
+          -117.2370801,
+          33.38470052
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "ENSLEN_LNODEWFN",
+        "PNODE_ID": "BARRETT_6_N001",
         "RES_TYPE": "LOAD",
-        "Lat": "37.65216286949752",
-        "Long": "-121.001359352501",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ENSLEN_LNODEWFN/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ENSLEN_LNODEWFN/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ENSLEN_LNODEWFN/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.578969583333322"
+        "Lat": "32.66715153",
+        "Long": "-116.7002197",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BARRETT_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BARRETT_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BARRETT_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.001359352501,
-          37.65216286949752
+          -116.7002197,
+          32.66715153
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "FC_3_PNM_FCST4GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "36.68590699998685",
-        "Long": "-108.48496001961313",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/FC_3_PNM_FCST4GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/FC_3_PNM_FCST4GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/FC_3_PNM_FCST4GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-78.71352656250001"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.48496001961313,
-          36.68590699998685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "FC_5_PNM_FCST5GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "36.68590699998685",
-        "Long": "-108.48507198038686",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/FC_5_PNM_FCST5GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/FC_5_PNM_FCST5GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/FC_5_PNM_FCST5GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-90.11540979166666"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.48507198038686,
-          36.68590699998685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "FIY_LNODE0LD",
+        "PNODE_ID": "BATIQTOS_1_N001",
         "RES_TYPE": "LOAD",
-        "Lat": "38.762778",
-        "Long": "-121.356944",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/FIY_LNODE0LD/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/FIY_LNODE0LD/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/FIY_LNODE0LD/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.11312697916666"
+        "Lat": "33.10131378",
+        "Long": "-117.2503983",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BATIQTOS_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BATIQTOS_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BATIQTOS_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.42487670138892"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.356944,
-          38.762778
+          -117.2503983,
+          33.10131378
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "FOLSOM_7_UNIT1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "38.70678387306045",
-        "Long": "-121.15846",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/FOLSOM_7_UNIT1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/FOLSOM_7_UNIT1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/FOLSOM_7_UNIT1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.418705624999996"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.15846,
-          38.70678387306045
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "FOLSOM_7_UNIT2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "38.70670306345457",
-        "Long": "-121.1584002127184",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/FOLSOM_7_UNIT2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/FOLSOM_7_UNIT2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/FOLSOM_7_UNIT2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.418705624999996"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.1584002127184,
-          38.70670306345457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "FOLSOM_7_UNIT3GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "38.70670306345457",
-        "Long": "-121.1585197872816",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/FOLSOM_7_UNIT3GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/FOLSOM_7_UNIT3GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/FOLSOM_7_UNIT3GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.418705624999996"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.1585197872816,
-          38.70670306345457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "GUADALUP_3_ARAGONNEWFGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.828829",
-        "Long": "-105.001307",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/GUADALUP_3_ARAGONNEWFGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/GUADALUP_3_ARAGONNEWFGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/GUADALUP_3_ARAGONNEWFGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.88676187500002"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.001307,
-          34.828829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "HERSHEY_LNODESLL",
+        "PNODE_ID": "BATIQTOS_1_N008",
         "RES_TYPE": "LOAD",
-        "Lat": "37.75083",
-        "Long": "-120.8453",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODESLL/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODESLL/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODESLL/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "20.47476708333333"
+        "Lat": "33.10108203",
+        "Long": "-117.2501996",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BATIQTOS_1_N008/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BATIQTOS_1_N008/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BATIQTOS_1_N008/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "62.73573350694437"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.8453,
-          37.75083
+          -117.2501996,
+          33.10108203
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "HERSHEY_LNODEXF1",
+        "PNODE_ID": "BATIQTOS_1_N015",
         "RES_TYPE": "LOAD",
-        "Lat": "37.7508299999447",
-        "Long": "-120.8451856244636",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODEXF1/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODEXF1/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODEXF1/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "20.47476708333333"
+        "Lat": "33.10107759",
+        "Long": "-117.2507205",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BATIQTOS_1_N015/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BATIQTOS_1_N015/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BATIQTOS_1_N015/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.42487670138892"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.8451856244636,
-          37.7508299999447
+          -117.2507205,
+          33.10107759
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "HERSHEY_LNODEXF2",
+        "PNODE_ID": "BDLRKSP1_7_B1",
+        "RES_TYPE": "GEN",
+        "Lat": "32.567447",
+        "Long": "-116.942233",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BDLRKSP1_7_B1/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BDLRKSP1_7_B1/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BDLRKSP1_7_B1/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "71.28084520833335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.942233,
+          32.567447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "BDLRKSP2_7_B1",
+        "RES_TYPE": "GEN",
+        "Lat": "32.56745",
+        "Long": "-116.942317",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BDLRKSP2_7_B1/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BDLRKSP2_7_B1/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BDLRKSP2_7_B1/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "50.67853618055551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.942317,
+          32.56745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "BERNARDO_6_N001",
         "RES_TYPE": "LOAD",
-        "Lat": "37.75073956547022",
-        "Long": "-120.8453",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODEXF2/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODEXF2/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODEXF2/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "20.47476708333333"
+        "Lat": "33.02149182",
+        "Long": "-117.0960007",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "83.63505173611118"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.8453,
-          37.75073956547022
+          -117.0960007,
+          33.02149182
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "HERSHEY_LNODEXF3",
+        "PNODE_ID": "BERNARDO_6_N002",
         "RES_TYPE": "LOAD",
-        "Lat": "37.7508299999447",
-        "Long": "-120.8454143755364",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODEXF3/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODEXF3/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODEXF3/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "20.47476708333333"
+        "Lat": "33.02121358",
+        "Long": "-117.0963061",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N002/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N002/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N002/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "57.85278640624998"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.8454143755364,
-          37.7508299999447
+          -117.0963061,
+          33.02121358
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "HERSHEY_LNODEXF4",
+        "PNODE_ID": "BERNARDO_6_N009",
         "RES_TYPE": "LOAD",
-        "Lat": "37.7509204345297",
-        "Long": "-120.8453",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODEXF4/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODEXF4/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/HERSHEY_LNODEXF4/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "20.47476708333333"
+        "Lat": "33.02150013",
+        "Long": "-117.0967119",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N009/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N009/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N009/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "57.85278640624998"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.8453,
-          37.7509204345297
+          -117.0967119,
+          33.02150013
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "HONDALE_1_DEMINGPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.169082",
-        "Long": "-107.754199",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/HONDALE_1_DEMINGPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/HONDALE_1_DEMINGPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/HONDALE_1_DEMINGPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-61.833126354166666"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.754199,
-          32.169082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "HURLEY_LNODERLEY",
-        "RES_TYPE": "GEN",
-        "Lat": "32.69388999998859",
-        "Long": "-108.22755676263536",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/HURLEY_LNODERLEY/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/HURLEY_LNODERLEY/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/HURLEY_LNODERLEY/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-60.60124833333331"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.22755676263536,
-          32.69388999998859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "IVANHOE_LNODENHOE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.78246999998868",
-        "Long": "-108.09847673240463",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/IVANHOE_LNODENHOE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/IVANHOE_LNODENHOE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/IVANHOE_LNODENHOE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-60.33272156249999"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.09847673240463,
-          32.78246999998868
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "JARALES_1_RIOCOMMPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.69388999998859",
-        "Long": "-108.22766323736464",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/JARALES_1_RIOCOMMPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/JARALES_1_RIOCOMMPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/JARALES_1_RIOCOMMPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-73.55578135416668"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.22766323736464,
-          32.69388999998859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "JAY_GNODE1",
-        "RES_TYPE": "GEN",
-        "Lat": "38.8340749999859",
-        "Long": "-120.53173542894449",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/JAY_GNODE1/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/JAY_GNODE1/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/JAY_GNODE1/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.477056562499998"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.53173542894449,
-          38.8340749999859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "JAY_GNODE2",
-        "RES_TYPE": "GEN",
-        "Lat": "38.8340749999859",
-        "Long": "-120.5318505710555",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/JAY_GNODE2/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/JAY_GNODE2/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/JAY_GNODE2/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.477056562499998"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.5318505710555,
-          38.8340749999859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "JFK_GNODET",
-        "RES_TYPE": "GEN",
-        "Lat": "38.850279",
-        "Long": "-120.381901",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/JFK_GNODET/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/JFK_GNODET/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/JFK_GNODET/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.492246874999998"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.381901,
-          38.850279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "KESWIK_7_UNIT 1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "40.61187423412586",
-        "Long": "-122.44664",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/KESWIK_7_UNIT 1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/KESWIK_7_UNIT 1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/KESWIK_7_UNIT 1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "8.889776979166667"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.44664,
-          40.61187423412586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "KESWIK_7_UNIT 2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "40.6117928829205",
-        "Long": "-122.4465781296006",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/KESWIK_7_UNIT 2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/KESWIK_7_UNIT 2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/KESWIK_7_UNIT 2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "8.889776979166667"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4465781296006,
-          40.6117928829205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "KESWIK_7_UNIT 3GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "40.6117928829205",
-        "Long": "-122.4467018703994",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/KESWIK_7_UNIT 3GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/KESWIK_7_UNIT 3GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/KESWIK_7_UNIT 3GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "8.192979479166668"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4467018703994,
-          40.6117928829205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "KIERNAN_LNODETUB",
+        "PNODE_ID": "BERNARDO_6_N013",
         "RES_TYPE": "LOAD",
-        "Lat": "37.71047",
-        "Long": "-121.0139",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/KIERNAN_LNODETUB/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/KIERNAN_LNODETUB/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/KIERNAN_LNODETUB/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "19.416098333333327"
+        "Lat": "33.02145283",
+        "Long": "-117.0963228",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N013/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N013/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N013/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.64233555555557"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.0139,
-          37.71047
+          -117.0963228,
+          33.02145283
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "KLG_GNODEDIL",
-        "RES_TYPE": "GEN",
-        "Lat": "38.466952",
-        "Long": "-121.176316",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/KLG_GNODEDIL/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/KLG_GNODEDIL/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/KLG_GNODEDIL/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.61258010416666"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.176316,
-          38.466952
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "KLG_GNODEPL",
-        "RES_TYPE": "GEN",
-        "Lat": "38.515178",
-        "Long": "-121.192617",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/KLG_GNODEPL/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/KLG_GNODEPL/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/KLG_GNODEPL/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.61258010416666"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.192617,
-          38.515178
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "KNA_LNODENA2",
+        "PNODE_ID": "BERNARDO_6_N014",
         "RES_TYPE": "LOAD",
-        "Lat": "40.654722",
-        "Long": "-122.389167",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/KNA_LNODENA2/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/KNA_LNODENA2/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/KNA_LNODENA2/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "8.94537822916667"
+        "Lat": "33.02170605",
+        "Long": "-117.0962795",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N014/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N014/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BERNARDO_6_N014/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.389167,
-          40.654722
+          -117.0962795,
+          33.02170605
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "LAJOYA_3_LJOYA1GNODE",
+        "PNODE_ID": "BLM W_2_COSBT1GN",
         "RES_TYPE": "GEN",
-        "Lat": "32.78246999998868",
-        "Long": "-108.09858326759534",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LAJOYA_3_LJOYA1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LAJOYA_3_LJOYA1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LAJOYA_3_LJOYA1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.88676187500002"
+        "Lat": "33.13704175",
+        "Long": "-117.3354643",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BLM W_2_COSBT1GN/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BLM W_2_COSBT1GN/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BLM W_2_COSBT1GN/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "29.4825282986111"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -108.09858326759534,
-          32.78246999998868
+          -117.3354643,
+          33.13704175
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "LAJOYA_3_LJOYA2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.634478",
-        "Long": "-106.707578",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LAJOYA_3_LJOYA2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LAJOYA_3_LJOYA2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LAJOYA_3_LJOYA2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.88676187500002"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.707578,
-          34.634478
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "LIGHTDOC_1_LIGHTNINGDGEOGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "31.763441",
-        "Long": "-108.538589",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LIGHTDOC_1_LIGHTNINGDGEOGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LIGHTDOC_1_LIGHTNINGDGEOGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LIGHTDOC_1_LIGHTNINGDGEOGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-59.539159687499996"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.538589,
-          31.763441
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "LLL_LNODELNL",
-        "RES_TYPE": "GEN",
-        "Lat": "37.68718",
-        "Long": "-121.70592",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LLL_LNODELNL/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LLL_LNODELNL/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LLL_LNODELNL/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.888524687499995"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.70592,
-          37.68718
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "LNL_GNODET",
-        "RES_TYPE": "GEN",
-        "Lat": "38.984727",
-        "Long": "-120.327931",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LNL_GNODET/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LNL_GNODET/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LNL_GNODET/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.492246874999998"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.327931,
-          38.984727
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "LONEMESA_7_CASAMEBATTGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.65052168608005",
-        "Long": "-104.01445496306005",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LONEMESA_7_CASAMEBATTGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LONEMESA_7_CASAMEBATTGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LONEMESA_7_CASAMEBATTGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.88676187500002"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.01445496306005,
-          34.65052168608005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "LONEMESA_7_CASAMESAWFGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.65059999995065",
-        "Long": "-104.01450992622392",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LONEMESA_7_CASAMESAWFGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LONEMESA_7_CASAMESAWFGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LONEMESA_7_CASAMESAWFGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.88676187500002"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.01450992622392,
-          34.65059999995065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "LORDBURG_1_GEN1GTGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.35682099998887",
-        "Long": "-106.7894978206245",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LORDBURG_1_GEN1GTGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LORDBURG_1_GEN1GTGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LORDBURG_1_GEN1GTGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-59.60319343749999"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.7894978206245,
-          32.35682099998887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "LORDBURG_1_GEN2GTGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.35682099998887",
-        "Long": "-106.7896041793755",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LORDBURG_1_GEN2GTGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LORDBURG_1_GEN2GTGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LORDBURG_1_GEN2GTGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-59.60319343749999"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.7896041793755,
-          32.35682099998887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "LOSMORRO_1_FACEBOOK1PVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.83299",
-        "Long": "-106.774307",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LOSMORRO_1_FACEBOOK1PVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LOSMORRO_1_FACEBOOK1PVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LOSMORRO_1_FACEBOOK1PVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-73.84405187499999"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.774307,
-          34.83299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "LOSMORRO_1_LOSLUNASPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.830545",
-        "Long": "-106.771223",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LOSMORRO_1_LOSLUNASPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LOSMORRO_1_LOSLUNASPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LOSMORRO_1_LOSLUNASPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-73.84405187499999"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.771223,
-          34.830545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "LOSTHORZ_1_FACEBOOK2PVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.077253999987555",
-        "Long": "-106.86276188301626",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LOSTHORZ_1_FACEBOOK2PVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LOSTHORZ_1_FACEBOOK2PVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LOSTHORZ_1_FACEBOOK2PVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.35985906249998"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.86276188301626,
-          35.077253999987555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "LOSTHORZ_1_FACEBOOK3PVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.077253999987555",
-        "Long": "-106.86287211698374",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LOSTHORZ_1_FACEBOOK3PVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LOSTHORZ_1_FACEBOOK3PVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LOSTHORZ_1_FACEBOOK3PVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.35985906249998"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.86287211698374,
-          35.077253999987555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "LOSTHORZ_1_SANTOLINAPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.01279",
-        "Long": "-106.856336",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LOSTHORZ_1_SANTOLINAPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LOSTHORZ_1_SANTOLINAPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LOSTHORZ_1_SANTOLINAPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.35985906249998"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.856336,
-          35.01279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "LUNA_3_LEFGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.171641135599224",
-        "Long": "-106.60192473289774",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/LUNA_3_LEFGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/LUNA_3_LEFGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/LUNA_3_LEFGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-61.40996041666668"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.60192473289774,
-          35.171641135599224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "MARQUEZ_1_CIBOLAPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.25692",
-        "Long": "-107.250976",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/MARQUEZ_1_CIBOLAPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/MARQUEZ_1_CIBOLAPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/MARQUEZ_1_CIBOLAPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.35965635416663"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.250976,
-          35.25692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "MCCLURE_1_MGSUNIT1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.62878413398629",
-        "Long": "-120.93128156256864",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/MCCLURE_1_MGSUNIT1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/MCCLURE_1_MGSUNIT1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/MCCLURE_1_MGSUNIT1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "20.562174270833324"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.93128156256864,
-          37.62878413398629
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "MCCLURE_1_MGSUNIT2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.62878413398629",
-        "Long": "-120.93139574743137",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/MCCLURE_1_MGSUNIT2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/MCCLURE_1_MGSUNIT2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/MCCLURE_1_MGSUNIT2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "20.562174270833324"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.93139574743137,
-          37.62878413398629
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "MCC_GNODEPKR",
-        "RES_TYPE": "GEN",
-        "Lat": "38.652701",
-        "Long": "-121.393143",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/MCC_GNODEPKR/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/MCC_GNODEPKR/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/MCC_GNODEPKR/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.159812812499993"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.393143,
-          38.652701
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "MCHENRY_6_SOLARGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.736285251",
-        "Long": "-120.994637149",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/MCHENRY_6_SOLARGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/MCHENRY_6_SOLARGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/MCHENRY_6_SOLARGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "19.39966666666666"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.994637149,
-          37.736285251
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "MD1_LNODEMINE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.77",
-        "Long": "-108.15",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/MD1_LNODEMINE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/MD1_LNODEMINE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/MD1_LNODEMINE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-60.1831940625"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.15,
-          32.77
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "MELONP_7_UNIT1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.94641999998608",
-        "Long": "-120.53018269329807",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/MELONP_7_UNIT1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/MELONP_7_UNIT1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/MELONP_7_UNIT1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "38.02878229166667"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.53018269329807,
-          37.94641999998608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "MELONP_7_UNIT2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.94641999998608",
-        "Long": "-120.53029730670193",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/MELONP_7_UNIT2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/MELONP_7_UNIT2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/MELONP_7_UNIT2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "38.02878229166667"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.53029730670193,
-          37.94641999998608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "NIMBUS_1_UNIT 1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "38.63761999998592",
-        "Long": "-121.22034248788916",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/NIMBUS_1_UNIT 1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/NIMBUS_1_UNIT 1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/NIMBUS_1_UNIT 1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.418705624999996"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.22034248788916,
-          38.63761999998592
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "NIMBUS_1_UNIT 2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "38.63761999998592",
-        "Long": "-121.22045751211084",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/NIMBUS_1_UNIT 2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/NIMBUS_1_UNIT 2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/NIMBUS_1_UNIT 2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.418705624999996"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.22045751211084,
-          38.63761999998592
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "OAKDAL_LNODEMTS",
+        "PNODE_ID": "BORDER_6_N001",
         "RES_TYPE": "LOAD",
-        "Lat": "37.66746999998627",
-        "Long": "-120.95814287556452",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/OAKDAL_LNODEMTS/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/OAKDAL_LNODEMTS/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/OAKDAL_LNODEMTS/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.430533645833325"
+        "Lat": "32.566114",
+        "Long": "-116.944024",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BORDER_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BORDER_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BORDER_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.8713326388889"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.95814287556452,
-          37.66746999998627
+          -116.944024,
+          32.566114
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "OAKDAL_LNODENDN",
+        "PNODE_ID": "BORDER_6_N008",
         "RES_TYPE": "LOAD",
-        "Lat": "37.66746999998627",
-        "Long": "-120.95825712443548",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/OAKDAL_LNODENDN/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/OAKDAL_LNODENDN/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/OAKDAL_LNODENDN/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.430533645833325"
+        "Lat": "32.566568",
+        "Long": "-116.944387",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BORDER_6_N008/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BORDER_6_N008/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BORDER_6_N008/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "50.67853618055551"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.95825712443548,
-          37.66746999998627
+          -116.944387,
+          32.566568
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "OREGON_LNODENK1",
+        "PNODE_ID": "BORREGO_6_N009",
+        "RES_TYPE": "GEN",
+        "Lat": "33.29123895",
+        "Long": "-116.3530361",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/BORREGO_6_N009/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/BORREGO_6_N009/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/BORREGO_6_N009/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "48.013886840277706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3530361,
+          33.29123895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "B_6_N001",
         "RES_TYPE": "LOAD",
-        "Lat": "37.63168999998624",
-        "Long": "-120.9742429051075",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/OREGON_LNODENK1/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/OREGON_LNODENK1/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/OREGON_LNODENK1/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.514829895833326"
+        "Lat": "32.714371",
+        "Long": "-117.169423",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/B_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/B_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/B_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "56.211451267361134"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.9742429051075,
-          37.63168999998624
+          -117.169423,
+          32.714371
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "OREGON_LNODENK2",
+        "PNODE_ID": "B_6_N003",
         "RES_TYPE": "LOAD",
-        "Lat": "37.63168999998624",
-        "Long": "-120.9743570948925",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/OREGON_LNODENK2/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/OREGON_LNODENK2/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/OREGON_LNODENK2/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.514829895833326"
+        "Lat": "32.714128",
+        "Long": "-117.169389",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/B_6_N003/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/B_6_N003/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/B_6_N003/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "45.8270648090278"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.9743570948925,
-          37.63168999998624
+          -117.169389,
+          32.714128
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "PDTYRONE_LNODERONE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.71",
-        "Long": "-108.31",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/PDTYRONE_LNODERONE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/PDTYRONE_LNODERONE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/PDTYRONE_LNODERONE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-60.085024583333315"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.31,
-          32.71
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "PERSON_1_RIOBRAVOGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.027677",
-        "Long": "-106.642247",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/PERSON_1_RIOBRAVOGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/PERSON_1_RIOBRAVOGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/PERSON_1_RIOBRAVOGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.54943656249999"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.642247,
-          35.027677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "PROGRESS_1_SANDOVALPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.28228",
-        "Long": "-106.808219",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/PROGRESS_1_SANDOVALPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/PROGRESS_1_SANDOVALPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/PROGRESS_1_SANDOVALPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.78029510416667"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.808219,
-          35.28228
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "PYGS_1_PYRAMID A1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.23751495052223",
-        "Long": "-108.54844365585338",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/PYGS_1_PYRAMID A1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/PYGS_1_PYRAMID A1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/PYGS_1_PYRAMID A1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-59.539159687499996"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.54844365585338,
-          32.23751495052223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "PYGS_1_PYRAMID A2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.2373350493886",
-        "Long": "-108.54844365606394",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/PYGS_1_PYRAMID A2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/PYGS_1_PYRAMID A2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/PYGS_1_PYRAMID A2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-59.539159687499996"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.54844365606394,
-          32.2373350493886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "PYGS_1_PYRAMID A3GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.2373350493886",
-        "Long": "-108.54865634393606",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/PYGS_1_PYRAMID A3GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/PYGS_1_PYRAMID A3GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/PYGS_1_PYRAMID A3GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-59.539159687499996"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.54865634393606,
-          32.2373350493886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "PYGS_1_PYRAMID A4GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "32.23751495052223",
-        "Long": "-108.54865634414664",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/PYGS_1_PYRAMID A4GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/PYGS_1_PYRAMID A4GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/PYGS_1_PYRAMID A4GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-59.539159687499996"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.54865634414664,
-          32.23751495052223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "RDGPOWER_1_UNIT6GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "40.508785",
-        "Long": "-122.42479",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/RDGPOWER_1_UNIT6GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/RDGPOWER_1_UNIT6GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/RDGPOWER_1_UNIT6GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "9.064251770833337"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.42479,
-          40.508785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "REDMESA_1_REDMESAWFGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.272229",
-        "Long": "-107.356793",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/REDMESA_1_REDMESAWFGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/REDMESA_1_REDMESAWFGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/REDMESA_1_REDMESAWFGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.3250740625"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.356793,
-          35.272229
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "REEVES_1_REEVES1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.17146086430088",
-        "Long": "-106.60192473314224",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/REEVES_1_REEVES1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/REEVES_1_REEVES1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/REEVES_1_REEVES1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.64585229166666"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.60192473314224,
-          35.17146086430088
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "REEVES_1_REEVES2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.17146086430088",
-        "Long": "-106.60214526685778",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/REEVES_1_REEVES2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/REEVES_1_REEVES2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/REEVES_1_REEVES2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.64585229166666"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.60214526685778,
-          35.17146086430088
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "REEVES_1_REEVES3GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.171641135599224",
-        "Long": "-106.60214526710224",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/REEVES_1_REEVES3GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/REEVES_1_REEVES3GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/REEVES_1_REEVES3GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.71634364583332"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.60214526710224,
-          35.171641135599224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "REEVES_1_REEVESPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.168006",
-        "Long": "-106.600187",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/REEVES_1_REEVESPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/REEVES_1_REEVESPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/REEVES_1_REEVESPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.71634364583332"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.600187,
-          35.168006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "REP_6_CTG1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "38.79255383289316",
-        "Long": "-121.381944",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/REP_6_CTG1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/REP_6_CTG1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/REP_6_CTG1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.11312697916666"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.381944,
-          38.79255383289316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "REP_6_CTG2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "38.7924730835382",
-        "Long": "-121.3818841854756",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/REP_6_CTG2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/REP_6_CTG2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/REP_6_CTG2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.11312697916666"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.3818841854756,
-          38.7924730835382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "REP_6_STGGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "38.7924730835382",
-        "Long": "-121.3820038145244",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/REP_6_STGGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/REP_6_STGGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/REP_6_STGGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.11312697916666"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.3820038145244,
-          38.7924730835382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "RIOPUERC_3_ENCINOPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.361472",
-        "Long": "-106.855934",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/RIOPUERC_3_ENCINOPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/RIOPUERC_3_ENCINOPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/RIOPUERC_3_ENCINOPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.89901854166668"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.855934,
-          35.361472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "RIPON_6_RGSUNIT1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.731585073986224",
-        "Long": "-121.125219800169",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/RIPON_6_RGSUNIT1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/RIPON_6_RGSUNIT1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/RIPON_6_RGSUNIT1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "19.12980999999999"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.125219800169,
-          37.731585073986224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "RIPON_6_RGSUNIT2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.731585073986224",
-        "Long": "-121.125334147831",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/RIPON_6_RGSUNIT2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/RIPON_6_RGSUNIT2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/RIPON_6_RGSUNIT2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "19.12980999999999"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.125334147831,
-          37.731585073986224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ROB_GNODET",
-        "RES_TYPE": "GEN",
-        "Lat": "38.896627",
-        "Long": "-120.37828",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ROB_GNODET/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ROB_GNODET/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ROB_GNODET/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.492246874999998"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.37828,
-          38.896627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "ROSELE_LNODEHMV",
+        "PNODE_ID": "B_6_N005",
         "RES_TYPE": "LOAD",
-        "Lat": "37.68013999998623",
-        "Long": "-120.94014286544196",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ROSELE_LNODEHMV/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ROSELE_LNODEHMV/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ROSELE_LNODEHMV/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.44890010416666"
+        "Lat": "32.714371",
+        "Long": "-117.169423",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/B_6_N005/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/B_6_N005/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/B_6_N005/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "56.211451267361134"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.94014286544196,
-          37.68013999998623
+          -117.169423,
+          32.714371
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "ROSELE_LNODERLV",
+        "PNODE_ID": "B_6_N007",
         "RES_TYPE": "LOAD",
-        "Lat": "37.68013999998623",
-        "Long": "-120.94025713455804",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ROSELE_LNODERLV/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ROSELE_LNODERLV/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ROSELE_LNODERLV/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.44890010416666"
+        "Lat": "32.714373",
+        "Long": "-117.169644",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/B_6_N007/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/B_6_N007/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/B_6_N007/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "63.83994968749989"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.94025713455804,
-          37.68013999998623
+          -117.169644,
+          32.714373
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "ROSEMR_LNODEAEI",
+        "PNODE_ID": "CABRILLO_1_N001",
         "RES_TYPE": "LOAD",
-        "Lat": "37.64253",
-        "Long": "-121.0423",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/ROSEMR_LNODEAEI/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/ROSEMR_LNODEAEI/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/ROSEMR_LNODEAEI/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.136102499999996"
+        "Lat": "32.707502",
+        "Long": "-117.244949",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CABRILLO_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CABRILLO_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CABRILLO_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "63.697685972222175"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.0423,
-          37.64253
+          -117.244949,
+          32.707502
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "RPP2_6_CTG1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "38.81055599998587",
-        "Long": "-121.32355343729284",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/RPP2_6_CTG1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/RPP2_6_CTG1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/RPP2_6_CTG1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.196615624999998"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.32355343729284,
-          38.81055599998587
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "RPP2_6_CTG2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "38.81055599998587",
-        "Long": "-121.32366856270716",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/RPP2_6_CTG2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/RPP2_6_CTG2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/RPP2_6_CTG2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.196615624999998"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.32366856270716,
-          38.81055599998587
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "RSC_LNODE8LD",
+        "PNODE_ID": "CABRILLO_6_N001",
         "RES_TYPE": "LOAD",
-        "Lat": "38.761389",
-        "Long": "-121.264722",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/RSC_LNODE8LD/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/RSC_LNODE8LD/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/RSC_LNODE8LD/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.196615624999998"
+        "Lat": "32.707366",
+        "Long": "-117.244947",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CABRILLO_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CABRILLO_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CABRILLO_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.99391479166658"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.264722,
-          38.761389
+          -117.244947,
+          32.707366
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "SANJUAN_3_SANJUAN1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "36.80191599998678",
-        "Long": "-108.44229487317608",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/SANJUAN_3_SANJUAN1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/SANJUAN_3_SANJUAN1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/SANJUAN_3_SANJUAN1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-76.91696989583335"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.44229487317608,
-          36.80191599998678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "SANJUAN_3_SANJUAN4GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "36.80191599998678",
-        "Long": "-108.44240712682394",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/SANJUAN_3_SANJUAN4GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/SANJUAN_3_SANJUAN4GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/SANJUAN_3_SANJUAN4GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-76.91696989583335"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.44240712682394,
-          36.80191599998678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "SCENIC_1_RIORANCHOPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.183051",
-        "Long": "-106.810922",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/SCENIC_1_RIORANCHOPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/SCENIC_1_RIORANCHOPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/SCENIC_1_RIORANCHOPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.61844031249998"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.810922,
-          35.183051
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "SCR_7_UNIT1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "40.62823999998475",
-        "Long": "-122.467630446325",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/SCR_7_UNIT1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/SCR_7_UNIT1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/SCR_7_UNIT1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "8.192979479166668"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.467630446325,
-          40.62823999998475
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "SCR_7_UNIT2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "40.62823999998475",
-        "Long": "-122.46774955367502",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/SCR_7_UNIT2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/SCR_7_UNIT2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/SCR_7_UNIT2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "8.192979479166668"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.46774955367502,
-          40.62823999998475
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "SHASTRD_7_UNIT1GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "40.71759",
-        "Long": "-122.42247",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "9.274143645833338"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.42247,
-          40.71759
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "SHASTRD_7_UNIT2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "40.717589999938575",
-        "Long": "-122.42235069772684",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "9.274143645833338"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.42235069772684,
-          40.717589999938575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "SHASTRD_7_UNIT3GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "40.71749957673847",
-        "Long": "-122.42247",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT3GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT3GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT3GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "9.274143645833338"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.42247,
-          40.71749957673847
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "SHASTRD_7_UNIT4GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "40.717589999938575",
-        "Long": "-122.42258930227317",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT4GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT4GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT4GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "9.274143645833338"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.42258930227317,
-          40.717589999938575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "SHASTRD_7_UNIT5GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "40.71768042326152",
-        "Long": "-122.42247",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT5GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT5GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/SHASTRD_7_UNIT5GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "9.274143645833338"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.42247,
-          40.71768042326152
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "SPILLS_6_ELVADOHYDROGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.643336",
-        "Long": "-106.731993",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/SPILLS_6_ELVADOHYDROGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/SPILLS_6_ELVADOHYDROGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/SPILLS_6_ELVADOHYDROGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-75.28303197916668"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.731993,
-          35.643336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "SPRV_3_COAL_SPV3GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.317552",
-        "Long": "-109.165362",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/SPRV_3_COAL_SPV3GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/SPRV_3_COAL_SPV3GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/SPRV_3_COAL_SPV3GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-59.105939166666644"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.165362,
-          34.317552
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "STATEPEN_1_SANTAFEPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.565522",
-        "Long": "-106.08944",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/STATEPEN_1_SANTAFEPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/STATEPEN_1_SANTAFEPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/STATEPEN_1_SANTAFEPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.64778760416665"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.08944,
-          35.565522
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PNODE_ID": "STCRUZ_LNODECXA",
+        "PNODE_ID": "CABRILLO_6_N004",
         "RES_TYPE": "LOAD",
-        "Lat": "37.627559999986325",
-        "Long": "-120.9750429086082",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/STCRUZ_LNODECXA/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/STCRUZ_LNODECXA/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/STCRUZ_LNODECXA/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "20.776535104166662"
+        "Lat": "32.707403",
+        "Long": "-117.245219",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CABRILLO_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CABRILLO_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CABRILLO_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.64233555555557"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.9750429086082,
-          37.627559999986325
+          -117.245219,
+          32.707403
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "STCRUZ_LNODEWLS",
+        "PNODE_ID": "CABRILLO_6_N011",
+        "RES_TYPE": "GEN",
+        "Lat": "32.707502",
+        "Long": "-117.245154",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CABRILLO_6_N011/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CABRILLO_6_N011/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CABRILLO_6_N011/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.273310850694465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.245154,
+          32.707502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "CAMERON_6_N001",
         "RES_TYPE": "LOAD",
-        "Lat": "37.627559999986325",
-        "Long": "-120.97515709139182",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/STCRUZ_LNODEWLS/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/STCRUZ_LNODEWLS/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/STCRUZ_LNODEWLS/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "20.776535104166662"
+        "Lat": "32.653268",
+        "Long": "-116.4881736",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CAMERON_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CAMERON_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CAMERON_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "20.93272114583335"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.97515709139182,
-          37.627559999986325
+          -116.4881736,
+          32.653268
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "STDDRD_LNODECEA",
+        "PNODE_ID": "CARLTNHS_1_N001",
         "RES_TYPE": "LOAD",
-        "Lat": "37.704079999986206",
-        "Long": "-121.06864284680096",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/STDDRD_LNODECEA/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/STDDRD_LNODECEA/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/STDDRD_LNODECEA/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "19.04035260416666"
+        "Lat": "32.85475841",
+        "Long": "-117.0117773",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CARLTNHS_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CARLTNHS_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CARLTNHS_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.09825397569448"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.06864284680096,
-          37.704079999986206
+          -117.0117773,
+          32.85475841
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "STDDRD_LNODEWZO",
+        "PNODE_ID": "CARLTNHS_1_N004",
         "RES_TYPE": "LOAD",
-        "Lat": "37.704079999986206",
-        "Long": "-121.06875715319904",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/STDDRD_LNODEWZO/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/STDDRD_LNODEWZO/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/STDDRD_LNODEWZO/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "19.04035260416666"
+        "Lat": "32.85476522",
+        "Long": "-117.0122039",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CARLTNHS_1_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CARLTNHS_1_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CARLTNHS_1_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.101042934027795"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.06875715319904,
-          37.704079999986206
+          -117.0122039,
+          32.85476522
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "STD_GNODER",
+        "PNODE_ID": "CARLTNHS_1_N011",
         "RES_TYPE": "GEN",
-        "Lat": "38.572008",
-        "Long": "-121.500518",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/STD_GNODER/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/STD_GNODER/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/STD_GNODER/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.324997708333328"
+        "Lat": "32.85511818",
+        "Long": "-117.0117526",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CARLTNHS_1_N011/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CARLTNHS_1_N011/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CARLTNHS_1_N011/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "56.88945097222227"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.500518,
-          38.572008
+          -117.0117526,
+          32.85511818
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "STUDIO_1_PROSPERITYGNODE",
+        "PNODE_ID": "CARLTNHS_1_N012",
         "RES_TYPE": "GEN",
-        "Lat": "35.002106",
-        "Long": "-106.637234",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/STUDIO_1_PROSPERITYGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/STUDIO_1_PROSPERITYGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/STUDIO_1_PROSPERITYGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.58650999999999"
+        "Lat": "32.85510461",
+        "Long": "-117.0121821",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CARLTNHS_1_N012/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CARLTNHS_1_N012/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CARLTNHS_1_N012/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.09825397569448"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.637234,
-          35.002106
+          -117.0121821,
+          32.85510461
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "S_COORS_1_SOUTHVALLEPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.987497",
-        "Long": "-106.733911",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/S_COORS_1_SOUTHVALLEPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/S_COORS_1_SOUTHVALLEPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/S_COORS_1_SOUTHVALLEPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.59377229166665"
+        "PNODE_ID": "CHCARITA_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.95999968",
+        "Long": "-117.0900387",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHCARITA_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHCARITA_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHCARITA_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "57.755995312500005"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.733911,
-          34.987497
+          -117.0900387,
+          32.95999968
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "TA3_7_CGTGGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "35.875305",
-        "Long": "-106.320723",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/TA3_7_CGTGGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/TA3_7_CGTGGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/TA3_7_CGTGGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.83308520833334"
+        "PNODE_ID": "CHCARITA_1_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.96013546",
+        "Long": "-117.0900725",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHCARITA_1_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHCARITA_1_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHCARITA_1_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.18380565972225"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.320723,
-          35.875305
+          -117.0900725,
+          32.96013546
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "TAIBANM_3_LONEMESAWFGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.65067831389528",
-        "Long": "-104.01445496316389",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/TAIBANM_3_LONEMESAWFGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/TAIBANM_3_LONEMESAWFGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/TAIBANM_3_LONEMESAWFGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-74.88676187500002"
+        "PNODE_ID": "CHCARITA_1_N008",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.9601199",
+        "Long": "-117.0898954",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHCARITA_1_N008/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHCARITA_1_N008/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHCARITA_1_N008/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "57.755995312500005"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.01445496316389,
-          34.65067831389528
+          -117.0898954,
+          32.9601199
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "TNY_7_UNIT1GNODE",
+        "PNODE_ID": "CHCARITA_1_N012",
         "RES_TYPE": "GEN",
-        "Lat": "40.79747999998468",
-        "Long": "-122.76270026920837",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/TNY_7_UNIT1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/TNY_7_UNIT1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/TNY_7_UNIT1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "8.192979479166668"
+        "Lat": "32.96000101",
+        "Long": "-117.0898248",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHCARITA_1_N012/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHCARITA_1_N012/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHCARITA_1_N012/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "78.18734942708335"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.76270026920837,
-          40.79747999998468
+          -117.0898248,
+          32.96000101
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "TNY_7_UNIT2GNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "40.79747999998468",
-        "Long": "-122.76281973079162",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/TNY_7_UNIT2GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/TNY_7_UNIT2GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/TNY_7_UNIT2GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "8.192979479166668"
+        "PNODE_ID": "CHOLLAS_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.74388",
+        "Long": "-117.046828",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHOLLAS_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHOLLAS_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHOLLAS_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "38.1179963888889"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.76281973079162,
-          40.79747999998468
+          -117.046828,
+          32.74388
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "TOME_1_RIODELOROPVGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.690969",
-        "Long": "-106.685128",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/TOME_1_RIODELOROPVGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/TOME_1_RIODELOROPVGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/TOME_1_RIODELOROPVGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-73.70315343749999"
+        "PNODE_ID": "CHOLLAS_6_N008",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.74369",
+        "Long": "-117.046676",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHOLLAS_6_N008/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHOLLAS_6_N008/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHOLLAS_6_N008/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "66.20548689236101"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.685128,
-          34.690969
+          -117.046676,
+          32.74369
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "TOME_1_VEFGTGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.611429",
-        "Long": "-106.732259",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/TOME_1_VEFGTGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/TOME_1_VEFGTGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/TOME_1_VEFGTGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-73.70315343749999"
+        "PNODE_ID": "CHOLLAS_6_N009",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.743722",
+        "Long": "-117.046944",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHOLLAS_6_N009/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHOLLAS_6_N009/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CHOLLAS_6_N009/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.73611307291671"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.732259,
-          34.611429
+          -117.046944,
+          32.743722
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "TRY_LNODENE1",
-        "RES_TYPE": "GEN",
-        "Lat": "37.79698",
-        "Long": "-121.58542",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/TRY_LNODENE1/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/TRY_LNODENE1/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/TRY_LNODENE1/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "11.859528020833329"
+        "PNODE_ID": "CLAIRMNT_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.82598542",
+        "Long": "-117.1838936",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CLAIRMNT_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CLAIRMNT_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CLAIRMNT_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.58542,
-          37.79698
+          -117.1838936,
+          32.82598542
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "UCD_GNODEPL",
-        "RES_TYPE": "GEN",
-        "Lat": "38.550453",
-        "Long": "-121.449591",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/UCD_GNODEPL/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/UCD_GNODEPL/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/UCD_GNODEPL/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.34621166666666"
+        "PNODE_ID": "CLAIRMNT_6_N008",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.82596287",
+        "Long": "-117.1838264",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CLAIRMNT_6_N008/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CLAIRMNT_6_N008/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CLAIRMNT_6_N008/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.449591,
-          38.550453
+          -117.1838264,
+          32.82596287
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "UNV_GNODET",
-        "RES_TYPE": "GEN",
-        "Lat": "38.864303",
-        "Long": "-120.444264",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/UNV_GNODET/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/UNV_GNODET/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/UNV_GNODET/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.492246874999998"
+        "PNODE_ID": "CLARMNT_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.8258041",
+        "Long": "-117.1840714",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CLARMNT_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CLARMNT_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CLARMNT_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.992569461805516"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.444264,
-          38.864303
+          -117.1840714,
+          32.8258041
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "WHSKYTWN_2_UNIT9GNODE",
+        "PNODE_ID": "CLARMNT_1_N028",
         "RES_TYPE": "GEN",
-        "Lat": "40.597643",
-        "Long": "-122.538623",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/WHSKYTWN_2_UNIT9GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/WHSKYTWN_2_UNIT9GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/WHSKYTWN_2_UNIT9GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "8.192979479166668"
+        "Lat": "32.82594682",
+        "Long": "-117.1841199",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CLARMNT_1_N028/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CLARMNT_1_N028/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CLARMNT_1_N028/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "26.09815663194445"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.538623,
-          40.597643
+          -117.1841199,
+          32.82594682
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "WHT_GNODE1",
-        "RES_TYPE": "GEN",
-        "Lat": "38.7651519999859",
-        "Long": "-120.78705045228318",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/WHT_GNODE1/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/WHT_GNODE1/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/WHT_GNODE1/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.475771562499999"
+        "PNODE_ID": "CORONADO_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.698934",
+        "Long": "-117.173276",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CORONADO_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CORONADO_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CORONADO_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.90018003472224"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.78705045228318,
-          38.7651519999859
+          -117.173276,
+          32.698934
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "WHT_GNODE2",
-        "RES_TYPE": "GEN",
-        "Lat": "38.7651519999859",
-        "Long": "-120.78716554771682",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/WHT_GNODE2/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/WHT_GNODE2/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/WHT_GNODE2/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "12.475771562499999"
+        "PNODE_ID": "CORONADO_6_N002",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.698682",
+        "Long": "-117.17337",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CORONADO_6_N002/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CORONADO_6_N002/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CORONADO_6_N002/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "24.44859411458333"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.78716554771682,
-          38.7651519999859
+          -117.17337,
+          32.698682
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "WILLARD_1_HIGHLONEWFGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "34.472717",
-        "Long": "-105.96719",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/WILLARD_1_HIGHLONEWFGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/WILLARD_1_HIGHLONEWFGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/WILLARD_1_HIGHLONEWFGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "-73.90598572916664"
+        "PNODE_ID": "CORONA_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.69877",
+        "Long": "-117.173458",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CORONA_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CORONA_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CORONA_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "23.14821998263889"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.96719,
-          34.472717
+          -117.173458,
+          32.69877
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "WOODLAND_6_WGSUNIT1GNODE",
+        "PNODE_ID": "CPBORDER_7_B1",
         "RES_TYPE": "GEN",
-        "Lat": "37.652638089",
-        "Long": "-121.019488732",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_6_WGSUNIT1GNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_6_WGSUNIT1GNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_6_WGSUNIT1GNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.501629270833323"
+        "Lat": "32.566132",
+        "Long": "-116.944759",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CPBORDER_7_B1/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CPBORDER_7_B1/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CPBORDER_7_B1/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.019488732,
-          37.652638089
+          -116.944759,
+          32.566132
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "WOODLAND_7_WGSUNIT2_CTGNODE",
+        "PNODE_ID": "CPELCAJN_7_B1",
         "RES_TYPE": "GEN",
-        "Lat": "37.65263808894495",
-        "Long": "-121.01937450727964",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT2_CTGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT2_CTGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT2_CTGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.501629270833323"
+        "Lat": "32.79556891",
+        "Long": "-116.9723925",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CPELCAJN_7_B1/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CPELCAJN_7_B1/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CPELCAJN_7_B1/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.76864185763893"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.01937450727964,
-          37.65263808894495
+          -116.9723925,
+          32.79556891
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "WOODLAND_7_WGSUNIT2_STGNODE",
+        "PNODE_ID": "CPESCNDO_7_A1",
         "RES_TYPE": "GEN",
-        "Lat": "37.65254765394827",
-        "Long": "-121.01937450741876",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT2_STGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT2_STGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT2_STGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.501629270833323"
+        "Lat": "33.12579572",
+        "Long": "-117.1160761",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CPESCNDO_7_A1/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CPESCNDO_7_A1/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CPESCNDO_7_A1/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.01937450741876,
-          37.65254765394827
+          -117.1160761,
+          33.12579572
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "WOODLAND_7_WGSUNIT3_AGNODE",
+        "PNODE_ID": "CPESCNDO_7_B1",
         "RES_TYPE": "GEN",
-        "Lat": "37.65248370679923",
-        "Long": "-121.01945527642354",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_AGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_AGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_AGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.501629270833323"
+        "Lat": "33.12587799",
+        "Long": "-117.1166727",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CPESCNDO_7_B1/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CPESCNDO_7_B1/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CPESCNDO_7_B1/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.64233555555557"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.01945527642354,
-          37.65248370679923
+          -117.1166727,
+          33.12587799
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "WOODLAND_7_WGSUNIT3_BGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.65246841404071",
-        "Long": "-121.01956785589306",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_BGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_BGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_BGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.501629270833323"
+        "PNODE_ID": "CREELMAN_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.01799513",
+        "Long": "-116.8532499",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CREELMAN_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CREELMAN_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CREELMAN_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.10024776041668"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.01956785589306,
-          37.65246841404071
+          -116.8532499,
+          33.01799513
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "WOODLAND_7_WGSUNIT3_CGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.65249973632327",
-        "Long": "-121.01967501043724",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_CGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_CGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_CGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.501629270833323"
+        "PNODE_ID": "CREELMAN_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.01797763",
+        "Long": "-116.8528224",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CREELMAN_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CREELMAN_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CREELMAN_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "63.26529975694444"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.01967501043724,
-          37.65249973632327
+          -116.8528224,
+          33.01797763
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "WOODLAND_7_WGSUNIT3_DGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.65256569225151",
-        "Long": "-121.01975315993242",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_DGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_DGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_DGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.501629270833323"
+        "PNODE_ID": "CREELMAN_6_N014",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.01822478",
+        "Long": "-116.8530237",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CREELMAN_6_N014/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CREELMAN_6_N014/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CREELMAN_6_N014/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "20.932721145833355"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.01975315993242,
-          37.65256569225151
+          -116.8530237,
+          33.01822478
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "WOODLAND_7_WGSUNIT3_EGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.652651161148185",
-        "Long": "-121.01979049086674",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_EGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_EGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_EGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.501629270833323"
+        "PNODE_ID": "CRESTWD_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.69901746",
+        "Long": "-116.3535954",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/CRESTWD_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/CRESTWD_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/CRESTWD_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "56.88945097222227"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.01979049086674,
-          37.652651161148185
+          -116.3535954,
+          32.69901746
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "PNODE_ID": "WOODLAND_7_WGSUNIT3_FGNODE",
-        "RES_TYPE": "GEN",
-        "Lat": "37.65274146108421",
-        "Long": "-121.01978425051092",
-        "SDGENodeLMP": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_FGNODE/NodeLMP.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCC": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_FGNODE/NodeMCC.png\" width=\"200\" height=\"120\"/>",
-        "SDGENodeMCE": "<img src=\"./data/NODE_LMP_Plots/WOODLAND_7_WGSUNIT3_FGNODE/NodeMCE.png\" width=\"200\" height=\"120\"/>",
-        "Average MCC": "18.501629270833323"
+        "PNODE_ID": "DELMAR_6_N010",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.98069889",
+        "Long": "-117.2555987",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/DELMAR_6_N010/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/DELMAR_6_N010/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/DELMAR_6_N010/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "20.932721145833355"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.01978425051092,
-          37.65274146108421
+          -117.2555987,
+          32.98069889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "DELMAR_6_N011",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.98068539",
+        "Long": "-117.2552255",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/DELMAR_6_N011/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/DELMAR_6_N011/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/DELMAR_6_N011/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "66.35310947916668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2552255,
+          32.98068539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "DESCANSO_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.86526401",
+        "Long": "-116.6336925",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/DESCANSO_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/DESCANSO_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/DESCANSO_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "20.93272114583335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6336925,
+          32.86526401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "DIVISION_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.68166",
+        "Long": "-117.120133",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/DIVISION_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/DIVISION_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/DIVISION_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "23.14821998263889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.120133,
+          32.68166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "DIVISION_6_N009",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.681533",
+        "Long": "-117.120064",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/DIVISION_6_N009/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/DIVISION_6_N009/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/DIVISION_6_N009/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "59.03205267361107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.120064,
+          32.681533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "DUNHILL_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.9015157",
+        "Long": "-117.2300009",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/DUNHILL_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/DUNHILL_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/DUNHILL_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "56.48248053819447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2300009,
+          32.9015157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "EASTGATE_6_N004",
+        "RES_TYPE": "GEN",
+        "Lat": "32.88485546",
+        "Long": "-117.2007272",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/EASTGATE_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/EASTGATE_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/EASTGATE_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.90018003472224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2007272,
+          32.88485546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "EASTGATE_6_N101",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.88483921",
+        "Long": "-117.2009561",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/EASTGATE_6_N101/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/EASTGATE_6_N101/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/EASTGATE_6_N101/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "59.72073369791672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2009561,
+          32.88483921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "EASTGATE_6_N201",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.88496124",
+        "Long": "-117.2008339",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/EASTGATE_6_N201/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/EASTGATE_6_N201/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/EASTGATE_6_N201/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "59.72073369791672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2008339,
+          32.88496124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ELCAJNEG_7_GN001",
+        "RES_TYPE": "GEN",
+        "Lat": "32.79709155",
+        "Long": "-116.9716033",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELCAJNEG_7_GN001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELCAJNEG_7_GN001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELCAJNEG_7_GN001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "103.1766808506945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9716033,
+          32.79709155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ELCAJNGT_7_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.79559262",
+        "Long": "-116.972107",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELCAJNGT_7_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELCAJNGT_7_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELCAJNGT_7_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "103.1766808506945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.972107,
+          32.79559262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ELCAJNGT_7_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.79527039",
+        "Long": "-116.9727367",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELCAJNGT_7_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELCAJNGT_7_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELCAJNGT_7_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.95273743055556"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9727367,
+          32.79527039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ELLIOTT_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.8159007",
+        "Long": "-117.0882917",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELLIOTT_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELLIOTT_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELLIOTT_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "63.83994968749989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0882917,
+          32.8159007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ELLIOTT_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.81585711",
+        "Long": "-117.0887154",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELLIOTT_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELLIOTT_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ELLIOTT_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "56.48248053819449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0887154,
+          32.81585711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ENCINA_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.136709",
+        "Long": "-117.3348233",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCINA_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCINA_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCINA_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.158585156250005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3348233,
+          33.136709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ENCINA_1_N049",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.13649609",
+        "Long": "-117.3354317",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCINA_1_N049/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCINA_1_N049/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCINA_1_N049/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "49.706124010416666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3354317,
+          33.13649609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ENCNITAS_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.05071225",
+        "Long": "-117.2853193",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCNITAS_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCNITAS_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCNITAS_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "57.75599531249998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2853193,
+          33.05071225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ENCNITAS_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.05058023",
+        "Long": "-117.2854145",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCNITAS_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCNITAS_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCNITAS_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.0982539756945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2854145,
+          33.05058023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ENCNITAS_6_N011",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.05053913",
+        "Long": "-117.2851851",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCNITAS_6_N011/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCNITAS_6_N011/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ENCNITAS_6_N011/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2851851,
+          33.05053913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ESCNDIDO_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.12545971",
+        "Long": "-117.1166477",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCNDIDO_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCNDIDO_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCNDIDO_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "59.72073369791672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1166477,
+          33.12545971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ESCNDIDO_6_N046",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.12572564",
+        "Long": "-117.116791",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCNDIDO_6_N046/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCNDIDO_6_N046/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCNDIDO_6_N046/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "66.35310947916668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.116791,
+          33.12572564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ESCNDIDO_6_N053",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.12577608",
+        "Long": "-117.1171374",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCNDIDO_6_N053/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCNDIDO_6_N053/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCNDIDO_6_N053/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.7361130729167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1171374,
+          33.12577608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ESCO_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.11577403",
+        "Long": "-117.0890645",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCO_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCO_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCO_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "63.697685972222175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0890645,
+          33.11577403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ESCO_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.11562179",
+        "Long": "-117.0894716",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCO_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCO_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ESCO_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "57.84329329861108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0894716,
+          33.11562179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "FELICITA_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.09302678",
+        "Long": "-117.0734188",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/FELICITA_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/FELICITA_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/FELICITA_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "56.5608334722223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0734188,
+          33.09302678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "FELICITA_6_N005",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.09305163",
+        "Long": "-117.0738402",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/FELICITA_6_N005/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/FELICITA_6_N005/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/FELICITA_6_N005/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "56.5608334722223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0738402,
+          33.09305163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "FELICITA_6_N009",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.0933505",
+        "Long": "-117.073652",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/FELICITA_6_N009/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/FELICITA_6_N009/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/FELICITA_6_N009/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.23776564236113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.073652,
+          33.0933505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "FRIARS_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.77902766",
+        "Long": "-117.1565874",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/FRIARS_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/FRIARS_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/FRIARS_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "50.32860932291669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1565874,
+          32.77902766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "FRIARS_1_N009",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.7790565",
+        "Long": "-117.1570895",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/FRIARS_1_N009/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/FRIARS_1_N009/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/FRIARS_1_N009/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.32304715277776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1570895,
+          32.7790565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "F_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.754938",
+        "Long": "-117.1260094",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/F_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/F_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/F_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "62.42132437499993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1260094,
+          32.754938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "F_6_N002",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.754857",
+        "Long": "-117.125858",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/F_6_N002/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/F_6_N002/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/F_6_N002/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.125858,
+          32.754857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "F_6_N005",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.754844",
+        "Long": "-117.126147",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/F_6_N005/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/F_6_N005/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/F_6_N005/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.23776564236113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.126147,
+          32.754844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "GARFIELD_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.79529519",
+        "Long": "-116.9968197",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/GARFIELD_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/GARFIELD_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/GARFIELD_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "93.87913967013895"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9968197,
+          32.79529519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "GENESEE_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.87971154",
+        "Long": "-117.2137265",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/GENESEE_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/GENESEE_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/GENESEE_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.64233555555558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2137265,
+          32.87971154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "GENESEE_6_N005",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.87975696",
+        "Long": "-117.2134127",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/GENESEE_6_N005/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/GENESEE_6_N005/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/GENESEE_6_N005/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "50.67853618055551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2134127,
+          32.87975696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "GENESEE_6_N011",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.87955605",
+        "Long": "-117.2137187",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/GENESEE_6_N011/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/GENESEE_6_N011/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/GENESEE_6_N011/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.64233555555558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2137187,
+          32.87955605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "GENESEE_6_N015",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.87948906",
+        "Long": "-117.2133968",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/GENESEE_6_N015/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/GENESEE_6_N015/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/GENESEE_6_N015/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "20.932721145833355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2133968,
+          32.87948906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "GLENCLIF_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.79837115",
+        "Long": "-116.49827",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/GLENCLIF_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/GLENCLIF_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/GLENCLIF_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "20.93272114583335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.49827,
+          32.79837115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "GOALLINE_6_N001",
+        "RES_TYPE": "GEN",
+        "Lat": "33.11703204",
+        "Long": "-117.0888245",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/GOALLINE_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/GOALLINE_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/GOALLINE_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.90018003472224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0888245,
+          33.11703204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "GRANITE_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.80421166",
+        "Long": "-116.9206326",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRANITE_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRANITE_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRANITE_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "105.43465605902776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9206326,
+          32.80421166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "GRANITE_6_N007",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.80449369",
+        "Long": "-116.9208552",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRANITE_6_N007/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRANITE_6_N007/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRANITE_6_N007/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "26.09815663194445"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9208552,
+          32.80449369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "GRANITE_6_N008",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.80433537",
+        "Long": "-116.9211823",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRANITE_6_N008/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRANITE_6_N008/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRANITE_6_N008/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "57.84329329861108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9211823,
+          32.80433537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "GRANITE_6_N009",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.80431246",
+        "Long": "-116.920932",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRANITE_6_N009/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRANITE_6_N009/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRANITE_6_N009/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.76523333333331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.920932,
+          32.80431246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "GRNTHLL_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.804527",
+        "Long": "-116.921093",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRNTHLL_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRNTHLL_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/GRNTHLL_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "78.18734942708335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.921093,
+          32.804527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "IMPRLBCH_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.583554",
+        "Long": "-117.097158",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/IMPRLBCH_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/IMPRLBCH_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/IMPRLBCH_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "62.42132437499993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.097158,
+          32.583554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "IMPRLBCH_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.583522",
+        "Long": "-117.097331",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/IMPRLBCH_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/IMPRLBCH_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/IMPRLBCH_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "56.211451267361134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.097331,
+          32.583522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "JAMACHA_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.744259",
+        "Long": "-116.9573",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAMACHA_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAMACHA_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAMACHA_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "57.75599531249998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9573,
+          32.744259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "JAMACHA_6_N006",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.744039",
+        "Long": "-116.95708",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAMACHA_6_N006/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAMACHA_6_N006/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAMACHA_6_N006/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "78.18734942708336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.95708,
+          32.744039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "JAMACHA_6_N015",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.744049",
+        "Long": "-116.95742",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAMACHA_6_N015/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAMACHA_6_N015/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAMACHA_6_N015/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "38.1179963888889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.95742,
+          32.744049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "JAPMESA_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.37436248",
+        "Long": "-117.5546716",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAPMESA_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAPMESA_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAPMESA_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "49.63129480902777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5546716,
+          33.37436248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "JAPMESA_6_N007",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.37432653",
+        "Long": "-117.5548847",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAPMESA_6_N007/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAPMESA_6_N007/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/JAPMESA_6_N007/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "50.246168420138844"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5548847,
+          33.37432653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "KEARNEY_7_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.8330923",
+        "Long": "-117.134238",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/KEARNEY_7_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/KEARNEY_7_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/KEARNEY_7_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.23776564236113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.134238,
+          32.8330923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "KEARNEY_7_N003",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.83307827",
+        "Long": "-117.1337435",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/KEARNEY_7_N003/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/KEARNEY_7_N003/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/KEARNEY_7_N003/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.273310850694465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1337435,
+          32.83307827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "KETTNER_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.733236",
+        "Long": "-117.173864",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/KETTNER_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/KETTNER_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/KETTNER_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.64233555555557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.173864,
+          32.733236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "KUMEYAAY_7_N001",
+        "RES_TYPE": "GEN",
+        "Lat": "32.69901509",
+        "Long": "-116.3539488",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/KUMEYAAY_7_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/KUMEYAAY_7_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/KUMEYAAY_7_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "105.43465605902776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3539488,
+          32.69901509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "KYOCERA_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.81979613",
+        "Long": "-117.1403579",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/KYOCERA_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/KYOCERA_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/KYOCERA_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1403579,
+          32.81979613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "LAJOLLA_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.84013291",
+        "Long": "-117.2752118",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/LAJOLLA_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/LAJOLLA_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/LAJOLLA_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "38.1179963888889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2752118,
+          32.84013291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "LAJOLLA_6_N007",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.84016059",
+        "Long": "-117.2754012",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/LAJOLLA_6_N007/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/LAJOLLA_6_N007/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/LAJOLLA_6_N007/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "59.81621104166667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2754012,
+          32.84016059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "LASPLGS_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.31286664",
+        "Long": "-117.4671652",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/LASPLGS_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/LASPLGS_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/LASPLGS_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "26.6851028125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4671652,
+          33.31286664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "LASPULGS_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.31283306",
+        "Long": "-117.4667796",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/LASPULGS_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/LASPULGS_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/LASPULGS_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "50.67853618055551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4667796,
+          33.31283306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "LILAC_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.25332439",
+        "Long": "-117.0857127",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/LILAC_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/LILAC_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/LILAC_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "52.139202829861155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0857127,
+          33.25332439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "LILAC_6_N010",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.25334054",
+        "Long": "-117.0859586",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/LILAC_6_N010/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/LILAC_6_N010/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/LILAC_6_N010/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.04023406249995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0859586,
+          33.25334054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "LOVELAND_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.79704299",
+        "Long": "-116.7921812",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/LOVELAND_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/LOVELAND_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/LOVELAND_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.95273743055556"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7921812,
+          32.79704299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MELROSE_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.20669687",
+        "Long": "-117.2529938",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MELROSE_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MELROSE_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MELROSE_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "49.09020788194452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2529938,
+          33.20669687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MELROSE_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.20637034",
+        "Long": "-117.2527908",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MELROSE_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MELROSE_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MELROSE_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "83.63505173611118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2527908,
+          33.20637034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MELROSE_6_N005",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.20633634",
+        "Long": "-117.2532469",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MELROSE_6_N005/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MELROSE_6_N005/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MELROSE_6_N005/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.73611307291671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2532469,
+          33.20633634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MELROSE_6_N009",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.20664369",
+        "Long": "-117.2525929",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MELROSE_6_N009/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MELROSE_6_N009/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MELROSE_6_N009/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "49.09020788194452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2525929,
+          33.20664369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MESAHGTS_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.82973419",
+        "Long": "-117.1572994",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESAHGTS_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESAHGTS_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESAHGTS_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "63.83994968749989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1572994,
+          32.82973419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MESAHGTS_6_N007",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.82945648",
+        "Long": "-117.1571298",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESAHGTS_6_N007/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESAHGTS_6_N007/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESAHGTS_6_N007/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "63.83994968749989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1571298,
+          32.82945648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MESAHGTS_6_N011",
+        "RES_TYPE": "GEN",
+        "Lat": "32.82946573",
+        "Long": "-117.1573847",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESAHGTS_6_N011/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESAHGTS_6_N011/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESAHGTS_6_N011/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "23.204327031250003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1573847,
+          32.82946573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MESARIM_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.90487943",
+        "Long": "-117.1734469",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESARIM_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESARIM_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESARIM_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "56.88945097222227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1734469,
+          32.90487943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MESARIM_6_N007",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.90475475",
+        "Long": "-117.1730793",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESARIM_6_N007/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESARIM_6_N007/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESARIM_6_N007/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.992569461805516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1730793,
+          32.90475475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MESARIM_6_N008",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.90495445",
+        "Long": "-117.1728972",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESARIM_6_N008/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESARIM_6_N008/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESARIM_6_N008/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "38.1179963888889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1728972,
+          32.90495445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MESARIM_6_N012",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.90519416",
+        "Long": "-117.1731609",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESARIM_6_N012/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESARIM_6_N012/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MESARIM_6_N012/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.992569461805516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1731609,
+          32.90519416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MIRAMAR_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.89420967",
+        "Long": "-117.135496",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MIRAMAR_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MIRAMAR_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MIRAMAR_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "62.28618986111111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.135496,
+          32.89420967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MIRAMAR_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.8939727",
+        "Long": "-117.135802",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MIRAMAR_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MIRAMAR_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MIRAMAR_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "59.07864157986108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.135802,
+          32.8939727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MIRAMAR_6_N017",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.89421848",
+        "Long": "-117.1357881",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MIRAMAR_6_N017/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MIRAMAR_6_N017/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MIRAMAR_6_N017/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "59.07864157986108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1357881,
+          32.89421848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MIRAMREF_7_B1",
+        "RES_TYPE": "GEN",
+        "Lat": "32.89401659",
+        "Long": "-117.1354521",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MIRAMREF_7_B1/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MIRAMREF_7_B1/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MIRAMREF_7_B1/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "103.1766808506945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1354521,
+          32.89401659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MISSION_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.78404045",
+        "Long": "-117.1373315",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSION_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSION_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSION_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1373315,
+          32.78404045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MISSION_6_N031",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.78414523",
+        "Long": "-117.13761",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSION_6_N031/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSION_6_N031/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSION_6_N031/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "27.71007463541667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.13761,
+          32.78414523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MISSION_6_N040",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.78433806",
+        "Long": "-117.1372528",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSION_6_N040/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSION_6_N040/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSION_6_N040/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "45.8270648090278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1372528,
+          32.78433806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MISSION_6_N049",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.78418655",
+        "Long": "-117.1377148",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSION_6_N049/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSION_6_N049/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSION_6_N049/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "53.73690031250001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1377148,
+          32.78418655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MISSON_1_N015",
+        "RES_TYPE": "GEN",
+        "Lat": "32.78435969",
+        "Long": "-117.137503",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSON_1_N015/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSON_1_N015/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MISSON_1_N015/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "28.138803333333342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.137503,
+          32.78435969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MONSRATE_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.32905287",
+        "Long": "-117.2355635",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MONSRATE_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MONSRATE_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MONSRATE_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "50.35026333333335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2355635,
+          33.32905287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MONSRATE_6_N007",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.32915593",
+        "Long": "-117.2352391",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MONSRATE_6_N007/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MONSRATE_6_N007/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MONSRATE_6_N007/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.19664267361113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2352391,
+          33.32915593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MONTGMRY_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.631748",
+        "Long": "-117.09953",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MONTGMRY_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MONTGMRY_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MONTGMRY_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "56.560833472222285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.09953,
+          32.631748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MONTGMRY_6_N002",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.631726",
+        "Long": "-117.099715",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MONTGMRY_6_N002/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MONTGMRY_6_N002/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MONTGMRY_6_N002/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "62.73573350694437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.099715,
+          32.631726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MOROHILL_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.2522007",
+        "Long": "-117.3003204",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MOROHILL_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MOROHILL_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MOROHILL_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.64233555555557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3003204,
+          33.2522007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MRGT_6_NODE1",
+        "RES_TYPE": "GEN",
+        "Lat": "32.87603634",
+        "Long": "-117.1655337",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MRGT_6_NODE1/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MRGT_6_NODE1/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MRGT_6_NODE1/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "59.03205267361108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1655337,
+          32.87603634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MURRAY_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.79093801",
+        "Long": "-117.022863",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MURRAY_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MURRAY_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MURRAY_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.273310850694465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.022863,
+          32.79093801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MURRAY_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.79064288",
+        "Long": "-117.022836",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MURRAY_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MURRAY_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MURRAY_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "83.63505173611118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.022836,
+          32.79064288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MURRAY_6_N005",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.79065871",
+        "Long": "-117.0233438",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MURRAY_6_N005/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MURRAY_6_N005/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MURRAY_6_N005/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.762027621527785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0233438,
+          32.79065871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "MURRAY_6_N015",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.79097003",
+        "Long": "-117.0233255",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/MURRAY_6_N015/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/MURRAY_6_N015/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/MURRAY_6_N015/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "49.43620300347229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0233255,
+          32.79097003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "NATNLCTY_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.673108",
+        "Long": "-117.107253",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/NATNLCTY_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/NATNLCTY_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/NATNLCTY_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.76523333333331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.107253,
+          32.673108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "NATNLCTY_6_N005",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.673077",
+        "Long": "-117.107435",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/NATNLCTY_6_N005/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/NATNLCTY_6_N005/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/NATNLCTY_6_N005/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.04023406249993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.107435,
+          32.673077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "NAVSTMTR_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.670422",
+        "Long": "-117.114581",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/NAVSTMTR_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/NAVSTMTR_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/NAVSTMTR_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.76864185763893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.114581,
+          32.670422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "NAVSTMTR_6_N011",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.670408",
+        "Long": "-117.114853",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/NAVSTMTR_6_N011/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/NAVSTMTR_6_N011/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/NAVSTMTR_6_N011/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "66.54917921874998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.114853,
+          32.670408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "NCMETER_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.0896009",
+        "Long": "-117.2031965",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/NCMETER_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/NCMETER_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/NCMETER_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.2681544270834"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2031965,
+          33.0896009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "NOISLMTR_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.7025",
+        "Long": "-117.182161",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/NOISLMTR_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/NOISLMTR_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/NOISLMTR_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.19664267361113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.182161,
+          32.7025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "NOISLMTR_6_N009",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.702364",
+        "Long": "-117.182081",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/NOISLMTR_6_N009/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/NOISLMTR_6_N009/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/NOISLMTR_6_N009/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "59.81621104166668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.182081,
+          32.702364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "NOISLMTR_6_N015",
+        "RES_TYPE": "GEN",
+        "Lat": "32.702352",
+        "Long": "-117.182378",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/NOISLMTR_6_N015/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/NOISLMTR_6_N015/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/NOISLMTR_6_N015/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.90018003472224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.182378,
+          32.702352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "NOISLMTR_6_N101",
+        "RES_TYPE": "GEN",
+        "Lat": "32.702489",
+        "Long": "-117.182422",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/NOISLMTR_6_N101/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/NOISLMTR_6_N101/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/NOISLMTR_6_N101/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.64233555555557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.182422,
+          32.702489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "NSCOGEN_7_B1",
+        "RES_TYPE": "GEN",
+        "Lat": "32.681524",
+        "Long": "-117.120218",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/NSCOGEN_7_B1/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/NSCOGEN_7_B1/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/NSCOGEN_7_B1/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.10024776041668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.120218,
+          32.681524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "OCEANSDE_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.19682652",
+        "Long": "-117.3819731",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/OCEANSDE_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/OCEANSDE_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/OCEANSDE_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "48.92200914930564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3819731,
+          33.19682652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "OCEANSDE_6_N002",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.19681509",
+        "Long": "-117.3817358",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/OCEANSDE_6_N002/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/OCEANSDE_6_N002/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/OCEANSDE_6_N002/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3817358,
+          33.19681509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "OLDTOWN_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.766227",
+        "Long": "-117.192417",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/OLDTOWN_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/OLDTOWN_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/OLDTOWN_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "56.88945097222227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.192417,
+          32.766227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "OMWD_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.06844795",
+        "Long": "-117.1415186",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/OMWD_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/OMWD_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/OMWD_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.76523333333331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1415186,
+          33.06844795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "OTAYLAKE_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.595409",
+        "Long": "-117.057789",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/OTAYLAKE_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/OTAYLAKE_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/OTAYLAKE_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.64233555555557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.057789,
+          32.595409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "OTAY_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.595173",
+        "Long": "-117.057762",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/OTAY_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/OTAY_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/OTAY_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "49.808697621527806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.057762,
+          32.595173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "OTAY_6_N014",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.595153",
+        "Long": "-117.057824",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/OTAY_6_N014/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/OTAY_6_N014/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/OTAY_6_N014/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "50.25717486111106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.057824,
+          32.595153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "PACFCBCH_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.799242",
+        "Long": "-117.240199",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/PACFCBCH_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/PACFCBCH_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/PACFCBCH_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "62.28618986111111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.240199,
+          32.799242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "PACFCBCH_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.799203",
+        "Long": "-117.24035",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/PACFCBCH_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/PACFCBCH_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/PACFCBCH_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.24035,
+          32.799203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "PALA_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.35607115",
+        "Long": "-117.1123405",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/PALA_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/PALA_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/PALA_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "25.65785178819444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1123405,
+          33.35607115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "PALOMAR_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.12275563",
+        "Long": "-117.2876275",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/PALOMAR_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/PALOMAR_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/PALOMAR_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.101042934027795"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2876275,
+          33.12275563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "PALOMAR_1_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.12302948",
+        "Long": "-117.2878474",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/PALOMAR_1_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/PALOMAR_1_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/PALOMAR_1_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.101042934027795"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2878474,
+          33.12302948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "PALOMAR_1_N013",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.12302948",
+        "Long": "-117.2878474",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/PALOMAR_1_N013/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/PALOMAR_1_N013/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/PALOMAR_1_N013/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.73611307291671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2878474,
+          33.12302948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "PARADISX_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.704444",
+        "Long": "-117.049884",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/PARADISX_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/PARADISX_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/PARADISX_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.73611307291671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.049884,
+          32.704444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "PENDLETN_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.30918349",
+        "Long": "-117.3349656",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/PENDLETN_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/PENDLETN_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/PENDLETN_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "66.35310947916668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3349656,
+          33.30918349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "PENDLETN_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.30916777",
+        "Long": "-117.3352508",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/PENDLETN_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/PENDLETN_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/PENDLETN_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "49.70612401041666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3352508,
+          33.30916777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "PLOALTO_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.35584386",
+        "Long": "-117.1125106",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/PLOALTO_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/PLOALTO_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/PLOALTO_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.30049583333324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1125106,
+          33.35584386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "PLOALTO_1_N007",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.3557237",
+        "Long": "-117.1122209",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/PLOALTO_1_N007/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/PLOALTO_1_N007/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/PLOALTO_1_N007/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "27.845602847222224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1122209,
+          33.3557237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "PLOALTO_1_N013",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.35582424",
+        "Long": "-117.1125309",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/PLOALTO_1_N013/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/PLOALTO_1_N013/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/PLOALTO_1_N013/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.87164128472226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1125309,
+          33.35582424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "PLOALTO_1_N019",
+        "RES_TYPE": "GEN",
+        "Lat": "33.35920034",
+        "Long": "-117.111482",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/PLOALTO_1_N019/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/PLOALTO_1_N019/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/PLOALTO_1_N019/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "59.95173925347225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.111482,
+          33.35920034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "POINTLMA_6_N001",
+        "RES_TYPE": "GEN",
+        "Lat": "32.741645",
+        "Long": "-117.233322",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/POINTLMA_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/POINTLMA_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/POINTLMA_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "63.8399496874999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.233322,
+          32.741645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "POINTLMA_6_N013",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.741447",
+        "Long": "-117.233264",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/POINTLMA_6_N013/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/POINTLMA_6_N013/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/POINTLMA_6_N013/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.42487670138892"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.233264,
+          32.741447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "POINTLMA_6_N014",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.741431",
+        "Long": "-117.233499",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/POINTLMA_6_N014/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/POINTLMA_6_N014/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/POINTLMA_6_N014/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "49.09020788194453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.233499,
+          32.741431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "POINTLMA_6_N021",
+        "RES_TYPE": "GEN",
+        "Lat": "32.741591",
+        "Long": "-117.233583",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/POINTLMA_6_N021/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/POINTLMA_6_N021/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/POINTLMA_6_N021/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "50.25717486111106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.233583,
+          32.741591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "POMERADO_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.94154767",
+        "Long": "-117.0328017",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/POMERADO_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/POMERADO_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/POMERADO_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "83.63505173611118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0328017,
+          32.94154767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "POMERADO_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.94119401",
+        "Long": "-117.0324755",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/POMERADO_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/POMERADO_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/POMERADO_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.8713326388889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0324755,
+          32.94119401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "POMERADO_6_N008",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.94121451",
+        "Long": "-117.0331609",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/POMERADO_6_N008/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/POMERADO_6_N008/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/POMERADO_6_N008/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "63.83994968749989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0331609,
+          32.94121451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "POWAY_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.97869735",
+        "Long": "-117.0314377",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/POWAY_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/POWAY_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/POWAY_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "62.71551796874998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0314377,
+          32.97869735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "POWAY_6_N010",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.97870402",
+        "Long": "-117.031188",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/POWAY_6_N010/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/POWAY_6_N010/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/POWAY_6_N010/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "50.246168420138844"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.031188,
+          32.97870402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "PRCTRVLY_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.665025",
+        "Long": "-116.986744",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/PRCTRVLY_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/PRCTRVLY_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/PRCTRVLY_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.709063159722206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.986744,
+          32.665025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "RAMCOOY_7_B1",
+        "RES_TYPE": "GEN",
+        "Lat": "32.595394",
+        "Long": "-117.057922",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/RAMCOOY_7_B1/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/RAMCOOY_7_B1/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/RAMCOOY_7_B1/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "103.1766808506945"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.057922,
+          32.595394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "RAMNGEN_7_N003",
+        "RES_TYPE": "GEN",
+        "Lat": "33.01480304",
+        "Long": "-116.8752718",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/RAMNGEN_7_N003/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/RAMNGEN_7_N003/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/RAMNGEN_7_N003/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "27.71007463541667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8752718,
+          33.01480304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "RCARMEL_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.99363878",
+        "Long": "-117.0773916",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/RCARMEL_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/RCARMEL_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/RCARMEL_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "63.697685972222175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0773916,
+          32.99363878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "RCARMEL_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.99362539",
+        "Long": "-117.0780601",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/RCARMEL_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/RCARMEL_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/RCARMEL_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.76530965277777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0780601,
+          32.99362539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "RCARMEL_6_N011",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.99362074",
+        "Long": "-117.077956",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/RCARMEL_6_N011/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/RCARMEL_6_N011/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/RCARMEL_6_N011/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "66.20548689236102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.077956,
+          32.99362074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "RINCON_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.28577862",
+        "Long": "-116.9584794",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/RINCON_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/RINCON_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/RINCON_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "25.65785178819444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9584794,
+          33.28577862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "RINCON_1_N003",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.28576216",
+        "Long": "-116.958746",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/RINCON_1_N003/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/RINCON_1_N003/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/RINCON_1_N003/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "9.90687703125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.958746,
+          33.28576216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "RINCON_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.28600294",
+        "Long": "-116.9585035",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/RINCON_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/RINCON_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/RINCON_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "27.71007463541667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9585035,
+          33.28600294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "RINCON_6_N008",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.28602324",
+        "Long": "-116.9587942",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/RINCON_6_N008/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/RINCON_6_N008/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/RINCON_6_N008/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "45.8270648090278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9587942,
+          33.28602324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ROSECYN_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.84472138",
+        "Long": "-117.2370599",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ROSECYN_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ROSECYN_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ROSECYN_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.90018003472224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2370599,
+          32.84472138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ROSECYN_6_N017",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.84448219",
+        "Long": "-117.2369216",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ROSECYN_6_N017/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ROSECYN_6_N017/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ROSECYN_6_N017/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.323047152777754"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2369216,
+          32.84448219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "ROSE_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.84446499",
+        "Long": "-117.2373205",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/ROSE_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/ROSE_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/ROSE_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "66.20548689236102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2373205,
+          32.84446499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "RSNTAFE_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.01425524",
+        "Long": "-117.1986737",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/RSNTAFE_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/RSNTAFE_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/RSNTAFE_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "57.84329329861108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1986737,
+          33.01425524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "RSNTAFE_6_N008",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.01443317",
+        "Long": "-117.1985582",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/RSNTAFE_6_N008/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/RSNTAFE_6_N008/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/RSNTAFE_6_N008/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "57.85278640625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1985582,
+          33.01443317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "RSNTAFE_6_N009",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.01416246",
+        "Long": "-117.1984397",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/RSNTAFE_6_N009/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/RSNTAFE_6_N009/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/RSNTAFE_6_N009/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "72.12621932291663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1984397,
+          33.01416246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SAMPSON_6_N010",
+        "RES_TYPE": "GEN",
+        "Lat": "32.694468",
+        "Long": "-117.142444",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SAMPSON_6_N010/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SAMPSON_6_N010/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SAMPSON_6_N010/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.86842609375006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.142444,
+          32.694468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SANLUSRY_6_N101",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.21143111",
+        "Long": "-117.3349068",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANLUSRY_6_N101/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANLUSRY_6_N101/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANLUSRY_6_N101/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "48.92200914930564"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3349068,
+          33.21143111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SANLUSRY_6_N201",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.21163841",
+        "Long": "-117.3339545",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANLUSRY_6_N201/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANLUSRY_6_N201/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANLUSRY_6_N201/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.90958920138887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3339545,
+          33.21163841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SANMRCOS_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.12867277",
+        "Long": "-117.19707",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANMRCOS_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANMRCOS_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANMRCOS_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "105.43465605902776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.19707,
+          33.12867277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SANMRCOS_6_N007",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.12896437",
+        "Long": "-117.1973031",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANMRCOS_6_N007/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANMRCOS_6_N007/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANMRCOS_6_N007/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.73611307291671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1973031,
+          33.12896437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SANMRCOS_6_N011",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.12884126",
+        "Long": "-117.1969489",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANMRCOS_6_N011/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANMRCOS_6_N011/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANMRCOS_6_N011/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.7361130729167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1969489,
+          33.12884126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SANMRCOS_6_N012",
+        "RES_TYPE": "GEN",
+        "Lat": "33.12853545",
+        "Long": "-117.197287",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANMRCOS_6_N012/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANMRCOS_6_N012/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANMRCOS_6_N012/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.7361130729167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.197287,
+          33.12853545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SANTEE_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.85465824",
+        "Long": "-116.9684018",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANTEE_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANTEE_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANTEE_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9684018,
+          32.85465824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SANTEE_1_N003",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.85438702",
+        "Long": "-116.9686258",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANTEE_1_N003/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANTEE_1_N003/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANTEE_1_N003/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "49.09020788194453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9686258,
+          32.85438702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SANTEE_1_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.85436745",
+        "Long": "-116.9681577",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANTEE_1_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANTEE_1_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANTEE_1_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "50.67853618055551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9681577,
+          32.85436745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SANTYSBL_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.11072149",
+        "Long": "-116.6711126",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANTYSBL_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANTYSBL_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANTYSBL_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "66.54917921875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6711126,
+          33.11072149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SANYSDRO_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.562157",
+        "Long": "-117.026397",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANYSDRO_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANYSDRO_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANYSDRO_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.18380565972225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.026397,
+          32.562157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SANYSDRO_6_N004",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.562128",
+        "Long": "-117.026591",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANYSDRO_6_N004/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANYSDRO_6_N004/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANYSDRO_6_N004/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "56.67456661458337"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.026591,
+          32.562128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SANYSDRO_6_N013",
+        "RES_TYPE": "GEN",
+        "Lat": "32.545077",
+        "Long": "-117.069661",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANYSDRO_6_N013/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANYSDRO_6_N013/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SANYSDRO_6_N013/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "59.07864157986108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.069661,
+          32.545077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SCRIPPS_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.91102907",
+        "Long": "-117.1127976",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SCRIPPS_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SCRIPPS_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SCRIPPS_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.95273743055557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1127976,
+          32.91102907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SCRIPPS_6_N008",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.91127459",
+        "Long": "-117.1125828",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SCRIPPS_6_N008/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SCRIPPS_6_N008/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SCRIPPS_6_N008/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1125828,
+          32.91127459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SCRIPPS_6_N013",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.9110943",
+        "Long": "-117.112352",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SCRIPPS_6_N013/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SCRIPPS_6_N013/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SCRIPPS_6_N013/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "105.43465605902776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.112352,
+          32.9110943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SHADOWR_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.14137852",
+        "Long": "-117.2385979",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SHADOWR_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SHADOWR_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SHADOWR_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.762027621527785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2385979,
+          33.14137852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SHADOWR_1_N006",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.14140249",
+        "Long": "-117.2391186",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SHADOWR_1_N006/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SHADOWR_1_N006/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SHADOWR_1_N006/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.762027621527785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2391186,
+          33.14140249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SHADOWR_1_N008",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.14166179",
+        "Long": "-117.238825",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SHADOWR_1_N008/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SHADOWR_1_N008/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SHADOWR_1_N008/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "48.09673559027777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.238825,
+          33.14166179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SNTAMRA_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.12847685",
+        "Long": "-117.1972897",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SNTAMRA_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SNTAMRA_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SNTAMRA_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.992569461805516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1972897,
+          33.12847685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SNTAMRA_1_N005",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.12871491",
+        "Long": "-117.1976226",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SNTAMRA_1_N005/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SNTAMRA_1_N005/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SNTAMRA_1_N005/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "48.013886840277706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1976226,
+          33.12871491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SONOFR2_7_B1",
+        "RES_TYPE": "GEN",
+        "Lat": "33.36961903",
+        "Long": "-117.554133",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SONOFR2_7_B1/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SONOFR2_7_B1/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SONOFR2_7_B1/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "50.25717486111107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.554133,
+          33.36961903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SONOFR3_7_B1",
+        "RES_TYPE": "GEN",
+        "Lat": "33.36924838",
+        "Long": "-117.5533188",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SONOFR3_7_B1/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SONOFR3_7_B1/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SONOFR3_7_B1/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "50.35026333333336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5533188,
+          33.36924838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SONOFRE_2_N067",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.3697053",
+        "Long": "-117.5545154",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SONOFRE_2_N067/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SONOFRE_2_N067/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SONOFRE_2_N067/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.64233555555557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5545154,
+          33.3697053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SPRNGVLY_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.739049",
+        "Long": "-117.00266",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SPRNGVLY_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SPRNGVLY_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SPRNGVLY_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "20.932721145833355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.00266,
+          32.739049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SPRNGVLY_6_N010",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.739041",
+        "Long": "-117.002856",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SPRNGVLY_6_N010/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SPRNGVLY_6_N010/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SPRNGVLY_6_N010/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.90018003472224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.002856,
+          32.739041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "STREAMVW_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.745635",
+        "Long": "-117.078586",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/STREAMVW_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/STREAMVW_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/STREAMVW_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "53.73690031250001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.078586,
+          32.745635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "STREAMVW_6_N007",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.745617",
+        "Long": "-117.078773",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/STREAMVW_6_N007/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/STREAMVW_6_N007/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/STREAMVW_6_N007/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "71.28084520833333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.078773,
+          32.745617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "STUART_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.25671933",
+        "Long": "-117.4165729",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/STUART_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/STUART_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/STUART_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.90958920138887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4165729,
+          33.25671933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SWEETWTR_6_N017",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.658407",
+        "Long": "-117.091526",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SWEETWTR_6_N017/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SWEETWTR_6_N017/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SWEETWTR_6_N017/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "72.12621932291663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.091526,
+          32.658407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "SWEETWTR_6_N018",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.658345",
+        "Long": "-117.091836",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/SWEETWTR_6_N018/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/SWEETWTR_6_N018/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/SWEETWTR_6_N018/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "63.14417019097223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.091836,
+          32.658345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "TELECYN_1_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.637845",
+        "Long": "-117.015979",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/TELECYN_1_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/TELECYN_1_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/TELECYN_1_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "63.83994968749989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.015979,
+          32.637845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "TELECYN_1_N006",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.638103",
+        "Long": "-117.016141",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/TELECYN_1_N006/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/TELECYN_1_N006/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/TELECYN_1_N006/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "57.85278640625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.016141,
+          32.638103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "TELECYN_1_N014",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.637823",
+        "Long": "-117.016284",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/TELECYN_1_N014/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/TELECYN_1_N014/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/TELECYN_1_N014/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.90958920138886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.016284,
+          32.637823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "TOREYPNS_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.89860207",
+        "Long": "-117.2398137",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/TOREYPNS_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/TOREYPNS_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/TOREYPNS_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2398137,
+          32.89860207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "TOREYPNS_6_N007",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.89884223",
+        "Long": "-117.2398285",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/TOREYPNS_6_N007/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/TOREYPNS_6_N007/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/TOREYPNS_6_N007/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.64233555555557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2398285,
+          32.89884223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "TOREYPNS_6_N008",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.89881529",
+        "Long": "-117.2401838",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/TOREYPNS_6_N008/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/TOREYPNS_6_N008/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/TOREYPNS_6_N008/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.64233555555558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2401838,
+          32.89881529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "TOREYPNS_6_N009",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.89853011",
+        "Long": "-117.2402412",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/TOREYPNS_6_N009/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/TOREYPNS_6_N009/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/TOREYPNS_6_N009/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "61.968449756944516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2402412,
+          32.89853011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "UCM_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.88344178",
+        "Long": "-117.2223885",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/UCM_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/UCM_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/UCM_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "48.922009149305644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2223885,
+          32.88344178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "UCM_6_N002",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.88373691",
+        "Long": "-117.2225007",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/UCM_6_N002/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/UCM_6_N002/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/UCM_6_N002/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.64233555555558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2225007,
+          32.88373691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "UCM_6_N006",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.88347002",
+        "Long": "-117.2227024",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/UCM_6_N006/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/UCM_6_N006/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/UCM_6_N006/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.99391479166658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2227024,
+          32.88347002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "UCM_6_N110",
+        "RES_TYPE": "GEN",
+        "Lat": "32.88217453",
+        "Long": "-117.223001",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/UCM_6_N110/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/UCM_6_N110/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/UCM_6_N110/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "65.23776564236113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.223001,
+          32.88217453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "URBAN_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.713308",
+        "Long": "-117.151331",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/URBAN_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/URBAN_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/URBAN_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.76864185763893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.151331,
+          32.713308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "URBAN_6_N005",
+        "RES_TYPE": "LOAD",
+        "Lat": "32.713308",
+        "Long": "-117.151611",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/URBAN_6_N005/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/URBAN_6_N005/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/URBAN_6_N005/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "57.85278640625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.151611,
+          32.713308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "VALCNTR_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.23068428",
+        "Long": "-117.0184155",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/VALCNTR_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/VALCNTR_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/VALCNTR_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.99391479166658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0184155,
+          33.23068428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "VLYCGEN_7_N002",
+        "RES_TYPE": "GEN",
+        "Lat": "33.2326448",
+        "Long": "-117.0028289",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/VLYCGEN_7_N002/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/VLYCGEN_7_N002/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/VLYCGEN_7_N002/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "48.013886840277706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0028289,
+          33.2326448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "VLYCGEN_7_N003",
+        "RES_TYPE": "GEN",
+        "Lat": "33.2325483",
+        "Long": "-117.0014186",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/VLYCGEN_7_N003/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/VLYCGEN_7_N003/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/VLYCGEN_7_N003/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "55.10024776041668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0014186,
+          33.2325483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "WARENCYN_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.01545588",
+        "Long": "-117.0020028",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/WARENCYN_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/WARENCYN_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/WARENCYN_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.76523333333331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0020028,
+          33.01545588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "WARENCYN_6_N002",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.01545557",
+        "Long": "-117.0023576",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/WARENCYN_6_N002/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/WARENCYN_6_N002/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/WARENCYN_6_N002/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "58.15858515625002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0023576,
+          33.01545557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PNODE_ID": "WARNERS_6_N001",
+        "RES_TYPE": "LOAD",
+        "Lat": "33.24736265",
+        "Long": "-116.6757664",
+        "SDGENodeLMP": "<img src=\"./data/SDGE_NODE_LMP_Plots/WARNERS_6_N001/SDGENodeLMP.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCC": "<img src=\"./data/SDGE_NODE_LMP_Plots/WARNERS_6_N001/SDGENodeMCC.png\" width=\"200\" height=\"120\"/>",
+        "SDGENodeMCE": "<img src=\"./data/SDGE_NODE_LMP_Plots/WARNERS_6_N001/SDGENodeMCE.png\" width=\"200\" height=\"120\"/>",
+        "Average MCC": "54.76523333333331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6757664,
+          33.24736265
         ]
       }
     }
