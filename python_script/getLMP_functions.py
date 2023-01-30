@@ -61,11 +61,12 @@ def plot_all_node(df,title,node_count):
         plt.plot(time_step,a.T,alpha=0.03,color='black')
         plt.xticks(rotation=45,fontsize=16)
         plt.yticks(fontsize=16)
-        plt.title('SDGE Node {} (All Nodes)'.format(title),fontsize=24)
-        plt.xlabel('Day 1 to Day 7',fontsize=20)
-        plt.ylabel('Congestion Price ($)',fontsize=20)
+        plt.title('Node {} (All Nodes)'.format(title),fontsize=24)
+        plt.xlabel('Time',fontsize=20)
+        plt.ylabel('Price ($)',fontsize=20)
     
-    plt.savefig("./data/NODE_LMP_Plots/{}_All_Node.png".format(title),bbox_inches="tight")
+    creare_folder('./data/NODE_LMP_Plots_Summary')
+    plt.savefig("./data/NODE_LMP_Plots_Summary/{}_All_Node.png".format(title),bbox_inches="tight")
     plt.close()
 
 def plot_node_prices(df,title,node,node_count):
@@ -83,7 +84,7 @@ def plot_node_prices(df,title,node,node_count):
             plt.xticks(rotation=45)
             plt.title(title+': '+node)
             # plt.xlabel('Time Series 09/01 to 09/05')
-            plt.ylabel('Congestion Price ($)',fontsize=20)
+            plt.ylabel('Price ($)',fontsize=20)
             break
     
     while ' ' in title:

@@ -45,19 +45,6 @@ def main():
     MCE = Node[Node['LMP_TYPE']=='MCE'] # Energy
     MCL = Node[Node['LMP_TYPE']=='MCL'] # Loss
 
-    # Add Average MCC to NodeMetaData
-    AllNodeMCC = pd.read_csv('./data/All_node_MCC.csv')
-    # print(AllNodeMCC)
-
-    avg_mcc = AllNodeMCC.describe().loc['mean'].to_frame()
-    avg_mcc_value = avg_mcc['mean'].to_numpy()
-    avg = pd.DataFrame({"PNODE_ID": avg_mcc.index, "Average MCC": list(avg_mcc_value)})
-
-    sd_nodes = pd.merge(sd_nodes,avg, on='PNODE_ID', how='inner')
-    sd_nodes.to_csv('./data/NodeMetaDataTest.csv')
-
-    exit()
-
     # Get Time Series
     getLMP_functions.terminal_print('Start Generating Time Series, Time Elapsed: {}'.format(getLMP_functions.getTimeElapse(start)))
     pd_MCC,pd_MCC_Trans = getLMP_functions.generateTS(MCC)
@@ -81,14 +68,25 @@ def main():
     getLMP_functions.terminal_print('Start Plotting and Saving Time Series, Time Elapsed: {}'.format(getLMP_functions.getTimeElapse(start)))
 
     pd_MCC_Trans.to_csv('./data/All_node_MCC.csv')
-    pd_LMP_Trans.to_csv('/data/All_node_LMP.csv')
-    pd_MCE_trans.to_csv('/data/All_node_MCE.csv')
-    pd_MCL_trans.to_csv('/data/All_node_MCL.csv')
+    pd_LMP_Trans.to_csv('./data/All_node_LMP.csv')
+    pd_MCE_trans.to_csv('./data/All_node_MCE.csv')
+    pd_MCL_trans.to_csv('./data/All_node_MCL.csv')
+
+    # Add Average MCC to NodeMetaData
+    AllNodeMCC = pd.read_csv('./data/All_node_MCC.csv')
+    avg_mcc = AllNodeMCC.describe().loc['mean'].to_frame()
+    avg_mcc_value = avg_mcc['mean'].to_numpy()
+    avg = pd.DataFrame({"PNODE_ID": avg_mcc.index, "Average MCC": list(avg_mcc_value)})
+
+    # print(avg)
+
+    sd_nodes = pd.merge(sd_nodes,avg, on='PNODE_ID', how='inner')
+    sd_nodes.to_csv('./data/NodeMetaData.csv')
 
     # Save Figure
-    # getLMP_functions.plot_all_node(pd_MCC_Trans,'MCC',num_entries)
-    # getLMP_functions.plot_all_node(pd_LMP_Trans,'LMP',num_entries)
-    # getLMP_functions.plot_all_node(pd_MCE_trans,'MCE',num_entries)
+    getLMP_functions.plot_all_node(pd_MCC_Trans,'MCC',num_entries)
+    getLMP_functions.plot_all_node(pd_LMP_Trans,'LMP',num_entries)
+    getLMP_functions.plot_all_node(pd_MCE_trans,'MCE',num_entries)
 
     # # # Save Figure for each node
     for id in pnodes_id:

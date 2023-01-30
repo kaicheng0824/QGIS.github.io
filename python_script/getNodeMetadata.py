@@ -58,10 +58,20 @@ def main():
     dfData = addHTMLPath(pnode,dfData)
     dfData.columns = ['Lat', 'Lng', 'PNODE_ID', 'Type','ISO','NodeLMP','NodeMCC','NodeMCE']
 
-    iso = input("Enter ISO Region to Query (APS, AVA, BANC, BCHA, CA, IPCO, LADWP, NV, NWMT, PACE, PACW, PGE, PNM, PSE, SCL, SRP, TEPC. TIDC, TPWR):")
-    dfData = dfData[dfData['ISO']==iso]
+    iso = input("Enter ISO Regions to Query (APS, AVA, BANC, BCHA, CA, IPCO, LADWP, NV, NWMT, PACE, PACW, PGE, PNM, PSE, SCL, SRP, TEPC. TIDC, TPWR):")
+    iso =  iso.split(',')
 
-    dfData.to_csv('./data/NodeMetaData.csv')
+    querydf = dfData[dfData['ISO'].isin(iso)]
+    while(querydf.empty):
+        iso = input("Invalid: Please input from this list (APS, AVA, BANC, BCHA, CA, IPCO, LADWP, NV, NWMT, PACE, PACW, PGE, PNM, PSE, SCL, SRP, TEPC. TIDC, TPWR): (Quit by typing quit) ")
+        iso =  iso.split(',')
+        if(iso==['quit']):
+            exit()
+        querydf = dfData[dfData['ISO'].isin(iso)]
+
+    querydf.to_csv('./data/NodeMetaData.csv')
+    count = int(querydf.describe().loc['count']['Lat'])
+    print('Queried: {} Data Count: {}'.format(iso,count))
         
 # if __name__ == "__main__":
 #     main()

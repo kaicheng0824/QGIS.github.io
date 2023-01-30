@@ -53,7 +53,7 @@
         }
         var map = L.map('map', {
             zoomControl:true, maxZoom:28, minZoom:1
-        }).fitBounds([[32.31468218929928,-117.20595193007487],[33.56961230179876,-115.40475812154621]]);
+        }).fitBounds([[35.837377,-124.3276297],[60.384359,-66.885666]]);
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
@@ -61,7 +61,7 @@
         function setBounds() {
         }
         map.createPane('pane_OpenStreetMap_0');
-        map.getPane('pane_OpenStreetMap_0').style.zIndex = 400;
+        map.getPane('pane_OpenStreetMap_0').style.zIndex = 0;
         var layer_OpenStreetMap_0 = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
             pane: 'pane_OpenStreetMap_0',
             opacity: 1.0,
@@ -287,7 +287,7 @@
         }
 
         function style_CAISONodesByAverageMCC_3_0(feature) {
-            if (feature.properties['Average MCC'] >= 0.000000 && feature.properties['Average MCC'] <= 20.000000 ) {
+            if (feature.properties['Average MCC'] >= -1000.000000 && feature.properties['Average MCC'] <= 20.000000 ) {
                 return {
                 pane: 'pane_CAISONodesByAverageMCC_3',
                 radius: 6.0,
@@ -404,12 +404,16 @@
         });
         bounds_group.addLayer(layer_CAISONodesByAverageMCC_3);
         map.addLayer(layer_CAISONodesByAverageMCC_3);
+
+
+        // Search Bar
         var osmGeocoder = new L.Control.Geocoder({
             collapsed: true,
             position: 'topleft',
             text: 'Search',
             title: 'Testing'
         }).addTo(map);
+
         document.getElementsByClassName('leaflet-control-geocoder-icon')[0]
         .className += ' fa fa-search';
         document.getElementsByClassName('leaflet-control-geocoder-icon')[0]
