@@ -7,7 +7,7 @@ import os
 def loadJSON():
     url = 'http://wwwmobile.caiso.com/Web.Service.Chart/api/v1/ChartService/GetPriceContourMap'
     resp = requests.get(url)
-    with open('./data/NodeLocation.json', 'wb') as f:
+    with open('./data/NodeLocationOASIS.json', 'wb') as f:
         f.write(resp.content)
 
 def generate_path(pnode,str_type):
@@ -32,13 +32,13 @@ def addHTMLPath(pnode,Node):
     
     return Node
 
-
-def main():
-    if(not os.path.isfile('./data/NodeLocation.json')):
-        print('Connecting to Get Node Data')
+def loadOASIS_JSON():
+    if(not os.path.isfile('./data/NodeLocationOASIS.json')):
+        print('Connecting to Get OASIS Node Data')
         loadJSON()
-    
-    with open('./data/NodeLocation.json') as NodeLocation:
+
+def processOASIS():
+    with open('./data/NodeLocationOASIS.json') as NodeLocation:
         NodeLocationRaw = NodeLocation.read()
     
     NodeLocationJSON = json.loads(NodeLocationRaw)
@@ -57,23 +57,56 @@ def main():
 
     dfData = addHTMLPath(pnode,dfData)
     dfData.columns = ['Lat', 'Lng', 'PNODE_ID', 'Type','ISO','NodeLMP','NodeMCC','NodeMCE']
+    return dfData
 
-    iso = input("Enter ISO Regions to Query (APS, AVA, BANC, BCHA, CA, IPCO, LADWP, NV, NWMT, PACE, PACW, PGE, PNM, PSE, SCL, SRP, TEPC. TIDC, TPWR):")
-    iso =  iso.split(',')
+def loadNewEngland():
+    NE_nodes = pd.read_csv('./data/new_england_node.csv')
+    NE_nodes.columns = NE_nodes.iloc[0]
+    NE_nodes = NE_nodes.iloc[1:,:]
+    NE_nodes = NE_nodes[['Latitude', 'Longitude','Node Name']]
 
-    querydf = dfData[dfData['ISO'].isin(iso)]
-    while(querydf.empty):
-        iso = input("Invalid: Please input from this list (APS, AVA, BANC, BCHA, CA, IPCO, LADWP, NV, NWMT, PACE, PACW, PGE, PNM, PSE, SCL, SRP, TEPC. TIDC, TPWR): (Quit by typing quit) ")
-        iso =  iso.split(',')
-        if(iso==['quit']):
-            exit()
-        querydf = dfData[dfData['ISO'].isin(iso)]
+    Node = ['Network']*NE_nodes.index.size
+    NE_nodes['Type'] = Node
+
+    ISO = ['NewEngland']*NE_nodes.index.size
+    NE_nodes['ISO'] = ISO
+
+    NE_nodes = addHTMLPath(NE_nodes['Node Name'],NE_nodes)
+    NE_nodes.columns = ['Lat', 'Lng', 'PNODE_ID', 'Type','ISO','NodeLMP','NodeMCC','NodeMCE']
+    NE_nodes = NE_nodes.dropna()
+    print(NE_nodes)
+    return NE_nodes
+
+
+def main(iso):
+    # Initialization
+    oasis = ['APS', 'AVA', 'BANC', 'BCHA', 'CA', 'IPCO', 'LADWP', 'NV', 'NWMT', 'PACE', 'PACW', 'PGE', 'PNM', 'PSE', 'SCL', 'SRP', 'TEPC', 'TIDC', 'TPWR']
+    contain_oasis = False
+
+    df_list = []
+    
+    # Get OASIS
+    queried_oasis = list(set.intersection(set(iso), set(oasis)))
+    print(queried_oasis)
+    if(len(queried_oasis) > 0):
+        contain_oasis = True
+        loadOASIS_JSON()
+        df_OASIS = processOASIS()
+        query_oasis = df_OASIS[df_OASIS['ISO'].isin(queried_oasis)]
+        df_list.append(query_oasis)
+
+    # Get other ISO
+    if('NewEngland' in iso):
+        print('pricessing newenglans')
+        df_NE = loadNewEngland()
+        df_list.append(df_NE)
+    
+    # Concat All ISO
+    querydf = pd.concat(df_list,axis=0)
 
     querydf.to_csv('./data/NodeMetaData.csv')
     count = int(querydf.describe().loc['count']['Lat'])
     print('Queried: {} Data Count: {}'.format(iso,count))
-        
-# if __name__ == "__main__":
-#     main()
+    
 
 

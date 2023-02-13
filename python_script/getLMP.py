@@ -2,21 +2,24 @@ import requests
 import numpy as np
 import pandas as pd
 import time
-import sys
 import time
-import os
-import getLMP_functions
+import getLMP_function
 import zipfile
 import glob
+import csv
+import user_interface
+import directory_setup
+from datetime import date, timedelta
     
-def main():
+def getCAISOLMP(start,end):
     # Counter
-    start = time.time()
+    currentTime = time.time()
 
     # # Determine Start and End time
     template = 'http://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_RTPD_LMP&version=3&startdatetime={}&enddatetime={}&market_run_id=RTPD&node={}' 
-    start_time = '20220901T07:00-0000'
-    end_time = '20220902T07:00-0000'
+    start_time = str(start)+"T07:00-0000"
+    print('Start Time: {}'.format(start_time))
+    end_time = str(end)+'T07:00-0000'
 
     # # Get Node ID
     sd_nodes = pd.read_csv('./data/NodeMetaData.csv')
@@ -25,7 +28,7 @@ def main():
     num_entries = pnodes_id.shape[0]
 
     # # Prepare Array
-    getLMP_functions.terminal_print('Preparing API Links, Time Elapsed: {}'.format(getLMP_functions.getTimeElapse(start)))
+    user_interface.terminal_print('Preparing API Links, Time Elapsed: {}'.format(getLMP_function.getTimeElapse(currentTime)))
     download_links = np.zeros((2,num_entries),dtype=object)
     for i in range(num_entries):
         download_links[1][i] = template.format(start_time,end_time,pnodes_id[i])
@@ -41,21 +44,44 @@ def main():
     N = nodes.shape[0]
 
     # # ##### Create Folder
-    getLMP_functions.creare_folder('./data/NODE_LMP')
+    directory_setup.create_folder('./data/NODE_LMP')
+
+    PNODE_chunked_list = list()
+    chunk_size = 10
+
+    for i in range(0, len(pnodes_id), chunk_size):
+        PNODE_chunked_list.append(pnodes_id[i:i+chunk_size])
+
+    # print(chunked_list)
+
+    # BLA = ",".join(list(pnodes_id))
+    # print(BLA)
+    # req = requests.get(template.format(start_time,end_time,BLA))
 
     # ##### Iterate Through All Links and Download
-    wait_time = input('Enter Connection Wait Time (Recommed more than 3 seconds if query huge time interval): ')
-    for i in range(N):
-        print('Downloading {}/{} {} started ---> '.format(i,N,nodes[i]),end=' ')
+    # exit()
+    
+    N = len(PNODE_chunked_list)
+    for i in range(len(PNODE_chunked_list)):
+        name_to_save = PNODE_chunked_list[i][0]+'_to_'+PNODE_chunked_list[i][-1]
+        print('Downloading {}/{} {} started ---> '.format(i,N,name_to_save),end=' ')
 
-        req = requests.get(links_list[i])
+        chunk = ",".join(list(PNODE_chunked_list[i]))
+        # print(chunk)
+        # print(template.format(start_time,end_time,chunk))
+        # exit()
+        # req = requests.get(links_list[i])
+        req = requests.get(template.format(start_time,end_time,chunk))
 
-        time.sleep(int(wait_time))
+        time.sleep(5)
         
-        with open('./data/NODE_LMP/{}.zip'.format(nodes[i]),'wb') as output_file:
+        
+        # print(name_to_save)
+
+        with open('./data/NODE_LMP/{}.zip'.format(name_to_save),'wb') as output_file:
             output_file.write(req.content)
         
-        getLMP_functions.terminal_print('Download Completed, Time Elapsed: {}'.format(getLMP_functions.getTimeElapse(start)))
+        user_interface.terminal_print('Download Completed, Time Elapsed: {}'.format(getLMP_function.getTimeElapse(currentTime)))
 
     files = glob.glob('./data/NODE_LMP/*.zip')
     for f in files:
@@ -63,5 +89,25 @@ def main():
         zf.extractall("./data/NODE_LMP")
         zf.close()
 
+def getNEISO(start,end,wait_time):
+    sdate = date(int(start[0:4]),int(start[4:6]),int(start[6:]))
+    edate = date(int(end[0:4]),int(end[4:6]),int(end[6:]))
+    range = pd.date_range(sdate,edate-timedelta(days=0),freq='d')
+    range = range.strftime("%Y%m%d")
+    range = range.to_list()
+    for thedate in range:
+        url = 'http://www.iso-ne.com/static-transform/csv/histRpts/rt-lmp/lmp_rt_final_{}.csv'.format(thedate)
+        print('Downloading {} for NEISO'.format(thedate),end=' ')
 
+        response = requests.get(url)        
+
+        with open('./data/NODE_LMP/NEISO{}.csv'.format(thedate), 'w') as f:
+            writer = csv.writer(f)
+            for line in response.iter_lines():
+                writer.writerow(line.decode('utf-8').split(','))
+
+def main(start,end):
+    getCAISOLMP(start,end)
+
+    # getNEISO('20220901','20220903',3)
 

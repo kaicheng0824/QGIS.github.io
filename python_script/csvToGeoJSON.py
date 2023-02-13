@@ -17,7 +17,7 @@ def main(filename):
                 'SDGENodeLMP': row['NodeLMP'],
                 'SDGENodeMCC': row['NodeMCC'],
                 'SDGENodeMCE': row['NodeMCE'],
-                'Average MCC': row['Average MCC']
+                'Average MCC': row['Average MCC_x']
             }
             d['geometry'] = {
                 'type': 'Point',

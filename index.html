@@ -19,13 +19,18 @@
         </style>
         <title></title>
     </head>
-    <body>
+    <body style="margin: 0; height: 100%; overflow: hidden">
+        <section style="margin: 10; border-style: solid;">
+            <h1 style="display: flex;flex-wrap:wrap; justify-content: center;">Welcome to GridViz (An Open Source Grid Visualization Website)</h1>
+            <p style="display: flex;flex-wrap:wrap; justify-content: center;"><a href="dashboard.html">Go to Dashboard</a></p>
+        </section>
         <div id="map">
         </div>
         <script src="js/qgis2web_expressions.js"></script>
         <script src="js/leaflet.js"></script>
         <script src="js/leaflet.rotatedMarker.js"></script>
         <script src="js/leaflet.pattern.js"></script>
+        <script src="js/leaflet-svg-shape-markers.min.js"></script>
         <script src="js/leaflet-hash.js"></script>
         <script src="js/Autolinker.min.js"></script>
         <script src="js/rbush.min.js"></script>
@@ -154,6 +159,8 @@
         });
         bounds_group.addLayer(layer_SDGETransmission_1);
         map.addLayer(layer_SDGETransmission_1);
+
+        
         function pop_SubstationsandTAPs_2(feature, layer) {
             layer.on({
                 mouseout: function(e) {
@@ -186,7 +193,7 @@
                     </tr>\
                     <tr>\
                         <th scope="row">Max_Voltage</th>\
-                        <td>' + (feature.properties['Max_Voltage'] !== null ? autolinker.link(feature.properties['Max_Voltage'].toLocaleString()) : '') + '</td>\
+                        <td>' + (feature.properties['Max_Voltag'] !== null ? autolinker.link(feature.properties['Max_Voltag'].toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
                         <th scope="row">ZIP_CODE</th>\
@@ -207,6 +214,7 @@
         function style_SubstationsandTAPs_2_0() {
             return {
                 pane: 'pane_SubstationsandTAPs_2',
+                shape: 'square',
                 radius: 6.0,
                 opacity: 1,
                 color: 'rgba(35,35,35,1.0)',
@@ -216,7 +224,7 @@
                 weight: 1,
                 fill: true,
                 fillOpacity: 1,
-                fillColor: 'rgba(190,190,190,1.0)',
+                fillColor: 'rgba(0,0,0,1.0)',
                 interactive: true,
             }
         }
@@ -235,11 +243,12 @@
                     feature: feature,
                     variables: {}
                 };
-                return L.circleMarker(latlng, style_SubstationsandTAPs_2_0(feature));
+                return L.shapeMarker(latlng, style_SubstationsandTAPs_2_0(feature));
             },
         });
         bounds_group.addLayer(layer_SubstationsandTAPs_2);
         map.addLayer(layer_SubstationsandTAPs_2);
+
         function pop_CAISONodesByAverageMCC_3(feature, layer) {
             layer.on({
                 mouseout: function(e) {
@@ -367,7 +376,7 @@
                 interactive: true,
             }
             }
-            if (feature.properties['Average MCC'] >= 100.000000 && feature.properties['Average MCC'] <= 120.000000 ) {
+            if (feature.properties['Average MCC'] >= 100.000000) {
                 return {
                 pane: 'pane_CAISONodesByAverageMCC_3',
                 radius: 6.0,
@@ -419,7 +428,7 @@
         document.getElementsByClassName('leaflet-control-geocoder-icon')[0]
         .title += 'Search for a place';
         var baseMaps = {};
-        L.control.layers(baseMaps,{'Nodes - By Average MCC ($)<br /><table><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_0200.png" /></td><td> < 20</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_20401.png" /></td><td>20 - 40</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_40602.png" /></td><td>40 - 60</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_60803.png" /></td><td>60 - 80</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_801004.png" /></td><td>80 - 100</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_1001205.png" /></td><td>100 - 120</td></tr></table>': layer_CAISONodesByAverageMCC_3,'<img src="legend/SubstationsandTAPs_2.png" /> Substations and TAPs': layer_SubstationsandTAPs_2,'<img src="legend/SDGETransmission_1.png" /> Transmission Line': layer_SDGETransmission_1,"OpenStreetMap": layer_OpenStreetMap_0,}).addTo(map);
+        L.control.layers(baseMaps,{'Nodes - By Average MCC ($)<br /><table><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_0200.png" /></td><td> < 20</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_20401.png" /></td><td>20 - 40</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_40602.png" /></td><td>40 - 60</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_60803.png" /></td><td>60 - 80</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_801004.png" /></td><td>80 - 100</td></tr><tr><td style="text-align: center;"><img src="legend/CAISONodesByAverageMCC_3_1001205.png" /></td><td>100+</td></tr></table>': layer_CAISONodesByAverageMCC_3,'<img src="legend/SubstationsandTAPs_2.png" /> Substations and TAPs': layer_SubstationsandTAPs_2,'<img src="legend/SDGETransmission_1.png" /> Transmission Line': layer_SDGETransmission_1,"OpenStreetMap": layer_OpenStreetMap_0,}).addTo(map);
         setBounds();
         </script>
     </body>
